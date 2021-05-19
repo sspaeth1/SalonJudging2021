@@ -1,0 +1,108 @@
+<%- include('partials/header') %>
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fetch/2.0.3/fetch.js"></script>
+<script type="text/javascript" src="/js/Dropbox-sdk.min.js"></script>
+<script type="text/javascript" src="https://www.dropbox.com/static/api/2/dropins.js" id="dropboxjs" data-app-key="91x0vhk5lkdccy5"></script>
+<link rel="stylesheet" href="/css/db.css" type="text/css">
+
+
+
+<script>
+    //active menu highlight
+    $(document).ready(function(){
+      $('li.nav-item.dropdown.myCategories').attr("style", "background-color:orange;");
+      $('span.nav-link.dropdown-toggle.myCategories').attr("style", "color:#fff;");
+    });
+  </script>
+
+ 
+
+
+<h1  class="fullSpan">
+    <span class="darkOrange font-weight-bold"><%= artentries.category %>: <%= categorySpecifics[0].type %> </span>
+ <br>
+   <span  class="myCategorySpecific" ><%= categorySpecifics[letterIndexKeys[0][artentries.category]].subtype  %></span>        
+     <span class="white"><%= categorySpecifics[letterIndexKeys[0][artentries.category]].specific  %></span>        
+
+     </h1>
+
+     <button  action="action" type="button" value="Back" onclick="window.history.go(-1); return false;"class="btn btn-primary m-2  btn-lg  buttonReturn" style="margin-left:5%;" >
+      Back to entries in this category</button>
+<main class="centerRatingPage">
+ 
+    <div class="row">
+       
+        <div id="displayDescriptions" class=" mt-4 ml-4" >
+            <h2 ><div class="orange entryDescriptors">
+                Title: 
+            </div><%=artentries.title%></h2>
+          <div class="orange entryDescriptors">Medium or Software Used: </div>  <p> <%= artentries.medium_software %></p>
+            <div class="orange entryDescriptors">Presentation format: </div><p> <%= artentries.presentation_format %></p>
+            <div class="orange entryDescriptors">Primary audience: </div> <p><%= artentries.primaryAudience %></p>
+            <div class="orange entryDescriptors">Intended purpose: </div><p> <%= artentries.intended_purpose %></p>
+       </div>
+
+       <div id="displayImage">
+        <%   if( artentries.category === "A1" ||
+                 artentries.category === "A2" ||
+                 artentries.category === "B" ||
+                 artentries.category === "C" ||
+                 artentries.category === "D" ||
+                 artentries.category === "E" ||
+                 artentries.category === "H" ||
+                 artentries.category === "I1" ||
+                 artentries.category === "I2" ||
+                 artentries.category === "I3" ||
+                 artentries.category === "J" ||
+                 artentries.category === "K"){   %>
+      <a href="<%= mediaLink %>">
+                  <img src="<%= mediaLink %>" class="card-img-top"  alt="<%= artentries.title %>" >
+           </a>
+      <%  } else { %>
+              <video class="card-img-top"   controls>
+                <source src="<%= mediaLink %>" type="video/mp4">
+
+                Your browser does not support the video tag.
+              </video> 
+            </a>
+      <%  } %>
+
+
+       
+    </div>
+
+    </div>
+
+    <div id="user"><%= artentries.judge %></div>
+
+
+
+    <% if( artentries.category === 'F1' || artentries.category === 'F2' ||
+            artentries.category === 'F3' || artentries.category === 'F4' ||
+            artentries.category === 'L'  ){ %>
+         <%- include('partials/questions_animation') %>
+    <% } else if(artentries.category === 'A1' || artentries.category === 'A2' || 
+                  artentries.category === 'B' || artentries.category === 'C' || 
+                artentries.category === 'D' || artentries.category === 'I1' ||
+                artentries.category === 'I2' || artentries.category === 'I3' || 
+                artentries.category === 'J' || artentries.category === 'K' ){ %>
+         <%- include('partials/questions_general') %>
+    <% } else if(artentries.category === 'E'){ %>
+         <%- include('partials/questions_book') %>
+    <% } else if(artentries.category === 'G1' || artentries.category === 'G2' || 
+                artentries.category === 'G3' || artentries.category === 'G4' ||
+                artentries.category === 'G5' || artentries.category === 'M' ){ %>
+        <%- include('partials/questions_interactive') %>  
+   <% } %> 
+
+
+   <button  action="action" type="button" value="Back" onclick="window.history.go(-1); return false;"class="btn btn-primary m-2  btn-lg  buttonReturn" style="margin-left:5%;" >
+    Back to entries in this category</button>
+
+
+<script src="/js/dropboxFileThumbSort.js"  id="helper" data-name="<%= DBX_API_KEY %>"  type="module"> </script>
+ 
+</main>
+<%- include('partials/footer') %>
+
+ <input 
