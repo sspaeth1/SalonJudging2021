@@ -10396,6 +10396,8 @@ div.centerTextContainer h3 {
   border-radius: 10px;
   width: 46%;
   box-shadow: 2px 2px 2px orange;
+  display: flex;
+  justify-content: center;
 }
 
 .judgeLogin:hover {
