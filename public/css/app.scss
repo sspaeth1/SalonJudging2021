@@ -121,7 +121,9 @@ body{
     color: #bd4747;
 	background-color: #ffba43;
 	margin-top: 20px;
-
+	position: absolute;
+	width: 100%;
+	text-align: center;
 }
 
 
@@ -219,10 +221,16 @@ section.loginLinks li {
     color: $white;
 	background-color: $blueAMI;
 	margin-top: 20px;
+	position: absolute;
+	width: 100%;
+	text-align: center;
 }
 
 .alert-warning {
     word-break: break-word;
+	position: absolute;
+	width: 100%;
+	text-align: center;
 }
 
 .green, .green.ui-accordion-header.ui-corner-top.ui-state-default.ui-accordion-icons.ui-accordion-header-collapsed.ui-corner-all{
