@@ -125,7 +125,7 @@ app.use(rating);
 app.use(ArtEntryCategoryPages);
 
 //App listen
-var port = process.env.PORT || 3000;
+var port = process.env.PORT || 1234;
 app.listen(port, process.env.IP, function () {
   console.log(`Server Started for prejuging app: ${port}`);
 });

@@ -25,10 +25,75 @@
      <span class="white"><%= categorySpecifics[letterIndexKeys[0][artentries.category]].specific  %></span>        
 
      </h1>
+     <div class="buttonsShowPage">
+      <button  id="toggleScoringIcon" class="btn btn-primary m-2  btn-lg" > Toggle scoring  </button> 
+      <button class="btn btn-secondary m-2  btn-lg "  action="action" type="button" value="Back" onclick="window.history.go(-1); return false;" >
+        Back to entries in this category</button>
+   </div>
 
-     <button  action="action" type="button" value="Back" onclick="window.history.go(-1); return false;"class="btn btn-primary m-2  btn-lg  buttonReturn" style="margin-left:5%;" >
-      Back to entries in this category</button>
 <main class="centerRatingPage">
+  <div></div>
+
+  <div id="toggleScoringSection">
+
+    <% if( artentries.category === 'F1' || artentries.category === 'F2' ||
+            artentries.category === 'F3' || artentries.category === 'F4' ||
+            artentries.category === 'L'  ){ %>
+         <%- include('partials/questions_animation') %>
+    <% } else if(artentries.category === 'A1' || artentries.category === 'A2' || 
+                  artentries.category === 'B' || artentries.category === 'C' || 
+                artentries.category === 'D' || artentries.category === 'I1' ||
+                artentries.category === 'I2' || artentries.category === 'I3' || 
+                artentries.category === 'J' || artentries.category === 'K' ){ %>
+         <%- include('partials/questions_general') %>
+    <% } else if(artentries.category === 'E'){ %>
+         <%- include('partials/questions_book') %>
+    <% } else if(artentries.category === 'G1' || artentries.category === 'G2' || 
+                artentries.category === 'G3' || artentries.category === 'G4' ||
+                artentries.category === 'G5' || artentries.category === 'M' ){ %>
+        <%- include('partials/questions_interactive') %>  
+   <% } %> 
+</div>
+
+
+<style>
+  #toggleScoringSection{
+    // position: absolute;
+    transition: left .5s;  
+  }
+  #toggleScoringIcon{
+  /*   font-size: 50px;
+      height: 20px;
+    width:20px;
+ border: red solid 10px;
+    border-top: 0.3em solid transparent;
+    border-right: 0.3em solid ;
+    border-bottom: 0.3em solid transparent;
+    border-left: 0;
+
+    position: relative;
+    transform-origin: left;
+    transform: rotate(90deg) translate(10px, 10px);  */  
+  }
+  .buttonsShowPage{
+    display: flex;
+    width: 92%;
+    margin-left:4%;
+  }
+  </style>
+
+<script>
+
+  $('#toggleScoringIcon').click( function(){
+    $('#toggleScoringSection').toggle(
+  function() {
+        $('#toggleScoringSection').css('left', '0')
+    }, 
+    function() {
+        $('#toggleScoringSection')
+  })
+})
+  </script>
  
     <div class="row">
        
@@ -55,7 +120,7 @@
                  artentries.category === "I3" ||
                  artentries.category === "J" ||
                  artentries.category === "K"){   %>
-      <a href="<%= mediaLink %>">
+      <a href="<%= mediaLink %>" target="_blank">
                   <img src="<%= mediaLink %>" class="card-img-top"  alt="<%= artentries.title %>" >
            </a>
       <%  } else { %>
@@ -74,30 +139,6 @@
     </div>
 
     <div id="user"><%= artentries.judge %></div>
-
-
-
-    <% if( artentries.category === 'F1' || artentries.category === 'F2' ||
-            artentries.category === 'F3' || artentries.category === 'F4' ||
-            artentries.category === 'L'  ){ %>
-         <%- include('partials/questions_animation') %>
-    <% } else if(artentries.category === 'A1' || artentries.category === 'A2' || 
-                  artentries.category === 'B' || artentries.category === 'C' || 
-                artentries.category === 'D' || artentries.category === 'I1' ||
-                artentries.category === 'I2' || artentries.category === 'I3' || 
-                artentries.category === 'J' || artentries.category === 'K' ){ %>
-         <%- include('partials/questions_general') %>
-    <% } else if(artentries.category === 'E'){ %>
-         <%- include('partials/questions_book') %>
-    <% } else if(artentries.category === 'G1' || artentries.category === 'G2' || 
-                artentries.category === 'G3' || artentries.category === 'G4' ||
-                artentries.category === 'G5' || artentries.category === 'M' ){ %>
-        <%- include('partials/questions_interactive') %>  
-   <% } %> 
-
-
-   <button  action="action" type="button" value="Back" onclick="window.history.go(-1); return false;"class="btn btn-primary m-2  btn-lg  buttonReturn" style="margin-left:5%;" >
-    Back to entries in this category</button>
 
 
 <script src="/js/dropboxFileThumbSort.js"  id="helper" data-name="<%= DBX_API_KEY %>"  type="module"> </script>
