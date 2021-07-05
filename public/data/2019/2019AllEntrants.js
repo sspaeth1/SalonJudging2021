@@ -57,21 +57,17 @@ const entrants = [
     "Contributor #3 First Name [Associate Submission]": "Marcelo",
     "Contributor #3 Last Name [Associate Submission]": "Oliver",
     "Contributor #3 is Member? [Associate Submission]": "Yes",
-    "Contributor #3 Email Address [Associate Submission]":
-      "marcelo@bodyscientific.com",
+    "Contributor #3 Email Address [Associate Submission]": "marcelo@bodyscientific.com",
   },
   {
     firstName: "Carolina",
     lastName: "Hrejsa",
     email: "chrejsa@yahoo.com",
     category: "A1",
-    title:
-      "A1-005 Disruption of Irradiated Cervical Esophageal Mucosa During Bougie Dilation",
+    title: "A1-005 Disruption of Irradiated Cervical Esophageal Mucosa During Bougie Dilation",
     medium_software: "Adobe Photoshop CC, Adobe InDesign CC",
-    presentation_format:
-      "22' x 29' on a conference poster at American Academy of Otolaryngology-Head and Neck Surgery annual conference Fall 2018",
-    primaryAudience:
-      "Attendees at AAO-HNS conference poster session, ie current practicing head and neck surgeons.",
+    presentation_format: "22' x 29' on a conference poster at American Academy of Otolaryngology-Head and Neck Surgery annual conference Fall 2018",
+    primaryAudience: "Attendees at AAO-HNS conference poster session, ie current practicing head and neck surgeons.",
     intended_purpose:
       "These illustrations demonstrate to the medical professional the mechanism by which a squilgee effect occurs when performing bougie dilation of the cricopharyngeus muscle (CPM).  The loss of elasticity of the CPM following radiation treatment causes the lubricant applied to the bougie to accumulate proximal to the muscle and blood caused by disruption of the esophageal mucosal to remain distal to it. To maintain mucosal integrity in the vicinity of the upper esophageal sphincter when passing the bougies the practitioner should administer a water soluble lubricant through a rigid esophagoscope proximal and distal to the CPM at the outset of the procedure. Application of lubricant to the cervical esophagus as the esophagoscope is being withdrawn can reduce mucosal damage during subsequent bougie dilation.",
     "Contributor #1 First Name ": "Carolina",
@@ -113,8 +109,7 @@ const entrants = [
     email: "leftfieldart@gmail.com",
     category: "A1",
     title: "A1-008 Frontline Medicine",
-    medium_software:
-      "Traditional - Acrylic Paint, Digital - Adobe Photoshop & Illustrator",
+    medium_software: "Traditional - Acrylic Paint, Digital - Adobe Photoshop & Illustrator",
     presentation_format: "Wearable, Military Combat Boot",
     primaryAudience: "General Public",
     intended_purpose:
@@ -194,8 +189,7 @@ const entrants = [
     lastName: "Gregory",
     email: "jill.gregory@mssm.edu",
     category: "A1",
-    title:
-      "A1-013 Repair of Internal Carotid Artery - Internal Jugular Vein Fistula",
+    title: "A1-013 Repair of Internal Carotid Artery - Internal Jugular Vein Fistula",
     medium_software: "Adobe Illustrator and Photoshop",
     presentation_format: "Surgical Journal",
     primaryAudience: "Surgeons",
@@ -255,11 +249,9 @@ const entrants = [
     lastName: "Gregg",
     email: "lgregg6@jhmi.edu",
     category: "A1",
-    title:
-      "A1-018 Genesis of high-grade serous carcinoma from fallopian tube cell populations",
+    title: "A1-018 Genesis of high-grade serous carcinoma from fallopian tube cell populations",
     medium_software: "Zbrush, Cinema 4D, Photoshop",
-    presentation_format:
-      "Figure within editorial review article and journal cover image",
+    presentation_format: "Figure within editorial review article and journal cover image",
     primaryAudience: "Gynecological Pathologists",
     intended_purpose:
       "This illustration is intended to offer a dramatic editorial depiction of the evolution of high-grade serous carcinoma (HGSC) from fallopian tube cells. The main image depicts the gross appearance of HGSC from a medial view of the right fallopian tube and ovary. Cell populations with a p53 mutational signature are colored blue while serous tubal intraepithelial carcinoma (STIC) and HGSC are yellow. HGSC represents the same cell population as STIC except it has become invasive, moving from the fimbriae of the fallopian tube to the ovary and peritoneal cavity wall. The 3 insets convey (1) the organized appearance of p53 signature cells, which are shown evolving into (2) STIC, with disorganized growth and lymphocytes. STIC has extensive mutations and is depicted migrating from the fallopian tube to form invasive (3) HGSC, shown with an infiltrative appearance and numerous lymphocytes. Not all p53 signature and STIC cell populations on the fimbriae continue to evolve to HGSC.",
@@ -281,12 +273,10 @@ const entrants = [
     lastName: "Koscal",
     email: "nkoscal@nejm.org",
     category: "A1",
-    title:
-      "A1-020 Autologous Complete Tracheal Replacement in a 12-Year-Old Girl",
+    title: "A1-020 Autologous Complete Tracheal Replacement in a 12-Year-Old Girl",
     medium_software: "Adobe Photoshop and Adobe Illustrator",
     presentation_format: "Printed and online journal",
-    primaryAudience:
-      "Medical professionals, especially cardiothoracic, plastic, and reconstructive surgeons, and head and neck specialists",
+    primaryAudience: "Medical professionals, especially cardiothoracic, plastic, and reconstructive surgeons, and head and neck specialists",
     intended_purpose:
       "To provide a clear, easy-to-follow visual summary of the main steps involved in an autologous complete tracheal replacement, a clever surgical strategy used to address a critical case of tracheal stenosis in a 12-year-old girl. As tracheal stenosis in children can be complex, this technique has primarily been used in adults, but for this patient, all other treatment options had been exhausted. It was important to visually orient the viewer to the patient's case by first showing the extent of the tracheal abnormality and the portion of it that was surgically replaced. Illustrations in panel B clearly depict the locations on the patient that the components of the autologous graft were derived from and also provide a sense of scale. For this panel, the rest of the body was kept as a simple outline to keep the eye focused on the key anatomy. The procedure was a success in this patient, and four years later, she has been able to live a mostly normal life, requiring only physiotherapy.",
     "Contributor #1 First Name ": "Natalie Koscal",
@@ -300,8 +290,7 @@ const entrants = [
     medium_software: "Adobe Photoshop, Adobe Illustrator",
     presentation_format: "Academic Journal",
     primaryAudience: "Patient Education",
-    intended_purpose:
-      "To explain pathogenesis of, and complications resulting from, formation of a sigmoid volvulus to a non-medical audience.",
+    intended_purpose: "To explain pathogenesis of, and complications resulting from, formation of a sigmoid volvulus to a non-medical audience.",
   },
   {
     firstName: "Nicholas",
@@ -323,8 +312,7 @@ const entrants = [
     title: "A1-023 Botulinum Neurotoxin for Radiation-Induced Spasm and Pain",
     medium_software: "Photoshop",
     presentation_format: "Medical textbook",
-    primaryAudience:
-      "Otolaryngologists, neurologists, dentists, pain specialists, physical medicine and rehabilitation specialists",
+    primaryAudience: "Otolaryngologists, neurologists, dentists, pain specialists, physical medicine and rehabilitation specialists",
     intended_purpose:
       "The purpose of this illustration is to accompany a chapter in the textbook, Botulinum Neurotoxin for Head and Neck Disorders 2nd Edition. The illustration depicts the superficial and deep muscles that are targeted for botulinum neurotoxin which is applied to mitigate the physical sequelae following radiation therapy for head and neck cancer patients. Under each label, the range of dosages is listed for the clinician's reference. The frontalis and trapezius are labeled for orientation purposes. The facial expression is relaxed, and the overall image evokes a sense of tranquility to show that botulinum neurotoxin alleviates muscle spasms and neuropathic pain.",
   },
@@ -346,8 +334,7 @@ const entrants = [
     lastName: "Flewell",
     email: "rob@anatomybydesign.com",
     category: "A1",
-    title:
-      "A1-025 'bartonella henselae neuroretinitis: a star is born'\r\n(Cat Scratch disease)",
+    title: "A1-025 'bartonella henselae neuroretinitis: a star is born'\r\n(Cat Scratch disease)",
     medium_software: "Photoshop",
     presentation_format: "powerpoint presentation",
     primaryAudience: "Professional medical conference",
@@ -418,8 +405,7 @@ const entrants = [
     lastName: "Cheavens",
     email: "cheavenss@health.missouri.edu",
     category: "A1",
-    title:
-      "A1-030 Sedimentary trace fossil record of predation by Cambrian trilobites",
+    title: "A1-030 Sedimentary trace fossil record of predation by Cambrian trilobites",
     medium_software: "Graphite, Photoshop",
     presentation_format: "Journal article",
     primaryAudience: "Geologists",
@@ -506,8 +492,7 @@ const entrants = [
     medium_software: "Adobe Illustrator",
     presentation_format: "Print - journal",
     primaryAudience: "Surgeons",
-    intended_purpose:
-      "To illustrate a surgical technique for a lung transplant",
+    intended_purpose: "To illustrate a surgical technique for a lung transplant",
     "Contributor #1 First Name ": "Catherine",
     "Contributor #1 Last Name ": "Sulzmann",
     "Contributor #1 is Member?": "yes",
@@ -546,10 +531,8 @@ const entrants = [
     email: "jason.sharpe@axs3d.com",
     category: "A2",
     title: "A2-005 Immune Thrombocytopenia (ITP) Poster Brochure",
-    medium_software:
-      "Autodesk Maya, Adobe CC (Photoshop, After Effects, InDesign, Illustrator)",
-    presentation_format:
-      "Printed poster 22' x 17', folded to 8.5' X 5.5' brochure",
+    medium_software: "Autodesk Maya, Adobe CC (Photoshop, After Effects, InDesign, Illustrator)",
+    presentation_format: "Printed poster 22' x 17', folded to 8.5' X 5.5' brochure",
     primaryAudience: "Healthcare providers",
     intended_purpose:
       "The purpose of this 'poster brochure' was to raise immune thrombocytopenia (ITP) disease awareness among hematologists and oncologists. The unfolded brochure features a conversation-sparking poster, while still serving as a compact informational takeaway suitable for medical congress booths. We distilled key information from over 100 educational slides provided by our client to craft the concise copy. The full-color poster uses an engaging, approachable style to communicate the complex story of platelet science and ITP pathophysiology, including recent advances in understanding. Challenges met include: (i) using color-coding and graphic elements to lead the eye through a text-heavy complex layout and (ii) using 2D microscopy reference to create a three-dimensional model of a complex and dynamic blood cell: the megakaryocyte.",
@@ -564,18 +547,15 @@ const entrants = [
     "Contributor #3 First Name [Associate Submission]": "Joyce",
     "Contributor #3 Last Name [Associate Submission]": "Hui",
     "Contributor #3 is Member? [Associate Submission]": "No",
-    "Contributor #3 Email Address [Associate Submission]":
-      "joyce.hui@axs3d.com",
+    "Contributor #3 Email Address [Associate Submission]": "joyce.hui@axs3d.com",
     "Contributor #4 First Name [Associate Submission]": "Man-San",
     "Contributor #4 Last Name [Associate Submission]": "Ma",
     "Contributor #4 is Member? [Associate Submission]": "No",
-    "Contributor #4 Email Address [Associate Submission]":
-      "mansan.ma@axs3d.com",
+    "Contributor #4 Email Address [Associate Submission]": "mansan.ma@axs3d.com",
     "Contributor #5 First Name [Associate Submission]": "Eddy",
     "Contributor #5 Last Name [Associate Submission]": "Xuan",
     "Contributor #5 is Member? [Associate Submission]": "Yes",
-    "Contributor #5 Email Address [Associate Submission]":
-      "eddy.xuan@axs3d.com",
+    "Contributor #5 Email Address [Associate Submission]": "eddy.xuan@axs3d.com",
   },
   {
     firstName: "John",
@@ -681,8 +661,7 @@ const entrants = [
     lastName: "Alexander",
     email: "edmond@alexanderandturner.com",
     category: "B",
-    title:
-      "B-004 APC Dendritic Cell Initiates T Cell Activation for Tumor Cell Attack",
+    title: "B-004 APC Dendritic Cell Initiates T Cell Activation for Tumor Cell Attack",
     medium_software: "Cinema4D R20, Photoshop CS6",
     presentation_format: "Print",
     primaryAudience: "Oncology Researchers",
@@ -732,12 +711,9 @@ const entrants = [
     category: "B",
     title:
       "B-007 How the Brain Decides Whether to Hold'Em or Fold'Em: Risk-taking bias in human decision-making is encoded via a right'left brain push'pull system",
-    medium_software:
-      "Graphite Pencil, Adobe Photoshop and Illustrator, anonymized patient CT image",
-    presentation_format:
-      "Journal Cover for PNAS, feature image for subsequent press releases",
-    primaryAudience:
-      "Basic Science Researchers, Neuroscientists, Biomedical Engineers",
+    medium_software: "Graphite Pencil, Adobe Photoshop and Illustrator, anonymized patient CT image",
+    presentation_format: "Journal Cover for PNAS, feature image for subsequent press releases",
+    primaryAudience: "Basic Science Researchers, Neuroscientists, Biomedical Engineers",
     intended_purpose:
       "To illustrate the symmetrical role right-left brain activity plays in high-risk decision-making. \r\n\r\nUsing stereoelectroencephalography, researchers gained an intimate look at patients' brains in real time as they gambled against a computer in a card game of 'war' where 2, 4, 6, 8 and 10 were the only cards drawn. The study showed that the decision for participants to 'up the ante,' even in the face of long odds, results from an internal cumulative bias involving a 'push-pull' dynamic between the brain's two hemispheres. \r\n\r\nLike the Angel vs. Demon idiom (seen metaphorically on the card design and in the brain), if the right hemisphere has high-frequency activity, it pushes a subject to take more risk (high bet, red poker chips). If the left hemisphere has high-frequency activity, it's pulling a subject away from taking a risk (low bet, blue poker chips). The Stochastic Dynamical Model of Choice, the formula used in quantifying the study's results, is depicted as the Table Rules.",
   },
@@ -746,8 +722,7 @@ const entrants = [
     lastName: "Fairman",
     email: "fairman@jhmi.edu",
     category: "B",
-    title:
-      "B-008 Minimally Invasive Surgery Plus Thrombolysis for Intracerebral Hemorrhage Evacuation'(MISTIE)",
+    title: "B-008 Minimally Invasive Surgery Plus Thrombolysis for Intracerebral Hemorrhage Evacuation'(MISTIE)",
     medium_software: "Graphite Pencil, Adobe Photoshop and Illustrator, HOROS",
     presentation_format: "Journal Cover for Neurosurgery",
     primaryAudience: "Neurosurgeons",
@@ -779,8 +754,7 @@ const entrants = [
     email: "jwk.art@att.net",
     category: "B",
     title: "B-010 Acute Hand Infections",
-    medium_software:
-      "Digital: DSLR Photography,  Lightwave, Keyshot, Poser, Reality, Photoshop",
+    medium_software: "Digital: DSLR Photography,  Lightwave, Keyshot, Poser, Reality, Photoshop",
     presentation_format: "Medical journal cover",
     primaryAudience: "Family practice and internal medicine specialists",
     intended_purpose:
@@ -791,8 +765,7 @@ const entrants = [
     lastName: "Roy",
     email: "laura@royillustration.com",
     category: "B",
-    title:
-      "B-011 Missed Connections: The Structural and Biochemical Markers of Neurodegeneration",
+    title: "B-011 Missed Connections: The Structural and Biochemical Markers of Neurodegeneration",
     medium_software: "Adobe Photoshop, Adobe Illustrator, Adobe InDesign",
     presentation_format: "Magazine Fold-Out Poster Spread",
     primaryAudience: "General Scientific Community",
@@ -804,8 +777,7 @@ const entrants = [
     lastName: "Root-Thompson",
     email: "mandy@meddrawstudio.com",
     category: "B",
-    title:
-      "B-012 Fetal Balloon Aortic Valvuloplasty for Critical Aortic Stenosis",
+    title: "B-012 Fetal Balloon Aortic Valvuloplasty for Critical Aortic Stenosis",
     medium_software: "Adobe Photoshop",
     presentation_format: "2 page magazine spread",
     primaryAudience: "Pediatric clinicians and researchers",
@@ -832,8 +804,7 @@ const entrants = [
     lastName: "Lawrence",
     email: "petemlawrence@gmail.com",
     category: "B",
-    title:
-      "B-014 The future of open vascular neurosurgery: perspectives on bypasses for complex aneurysms",
+    title: "B-014 The future of open vascular neurosurgery: perspectives on bypasses for complex aneurysms",
     medium_software: "Adobe Photoshop CC 2018",
     presentation_format: "Journal Cover",
     primaryAudience: "Resident and attending neurosurgeons",
@@ -866,16 +837,14 @@ const entrants = [
     "Contributor #3 First Name [Associate Submission]": "Michael",
     "Contributor #3 Last Name [Associate Submission]": "Hickman",
     "Contributor #3 is Member? [Associate Submission]": "Yes",
-    "Contributor #3 Email Address [Associate Submission]":
-      "Michael.Hickman@Barrowneuro.org",
+    "Contributor #3 Email Address [Associate Submission]": "Michael.Hickman@Barrowneuro.org",
   },
   {
     firstName: "Ryan",
     lastName: "Kissinger",
     email: "ryan.kissinger1@gmail.com",
     category: "B",
-    title:
-      "B-016 Immunization with a Nanoparticle Vaccine Containing an Epstein-Barr Virus (EBV) Glycoprotein Complex",
+    title: "B-016 Immunization with a Nanoparticle Vaccine Containing an Epstein-Barr Virus (EBV) Glycoprotein Complex",
     medium_software: "Cinema 4D Octane Render",
     presentation_format: "Cover",
     primaryAudience: "Researchers",
@@ -893,8 +862,7 @@ const entrants = [
     title: "B-017 Introducing the Clinical Arcade",
     medium_software: "Pixologic ZBrush, Keyshot, and the Adobe Creative Suite",
     presentation_format: "Journal cover",
-    primaryAudience:
-      "Rehabilitation scientists, physical therapists, and cardiologists",
+    primaryAudience: "Rehabilitation scientists, physical therapists, and cardiologists",
     intended_purpose:
       "This editorial illustration accompanies a paper introducing a new concept in rehabilitative intervention called the Clinical Arcade, utilizing commercially successful games and virtual reality programs to engage patients in cardiac rehabilitation. Taking inspiration from classic arcades and pinball machines, the piece playfully challenges practitioners to tilt their patient materials into the exploratory world of gaming. As the program is still in development, the purpose of the illustration is to excite and inspire experts in the field on this new framework, highlighting patient vitals and exercise progress while representing the patient's role as the Player One of their own heart health.",
     "Contributor #1 First Name ": "Sam",
@@ -912,8 +880,7 @@ const entrants = [
     email: "s.tripathi@emory.edu",
     category: "B",
     title: "B-018 Real. Genuine. Heart.",
-    medium_software:
-      "Pixologic Zbrush 2018/Maxon Cinema4D R20/Adobe Photoshop CC 2018",
+    medium_software: "Pixologic Zbrush 2018/Maxon Cinema4D R20/Adobe Photoshop CC 2018",
     presentation_format: "Letterpress Print",
     primaryAudience: "General Public",
     intended_purpose:
@@ -947,8 +914,7 @@ const entrants = [
     title: "B-020 The Loopy Genome",
     medium_software: "Maxon Cinema4D, Adobe Photoshop, Adobe Illustrator",
     presentation_format: "1.5 page spread, magazine",
-    primaryAudience:
-      "Scientific American readers (science-interested lay audience)",
+    primaryAudience: "Scientific American readers (science-interested lay audience)",
     intended_purpose:
       "Illustrate the relationship of DNA to chromatin, the density of chromatin packing in the nucleus, and schematically show how chromatin loops are formed that both prevent entanglement and allow for gene regulation.",
   },
@@ -960,8 +926,7 @@ const entrants = [
     title: "C-001 Flora",
     medium_software: "Cinema4D R20, Photoshop CS6",
     presentation_format: "Print and Digital",
-    primaryAudience:
-      "Art Buyers, Creative Directors, Art Directors of Pharmaceutical and Biotechnology Companies",
+    primaryAudience: "Art Buyers, Creative Directors, Art Directors of Pharmaceutical and Biotechnology Companies",
     intended_purpose:
       "One of a series of images distributed via a self-promotional marketing program to prospective clients to promote the artist's creativity, artistry and storytelling. The illustration is a fantasy dramatization of the flowering of gastrointestinal microbiota fertilized by the seething gastric environment. The flowering is depicted by petals of Bacteroidetes, Bifidobacteriam, and Enterococcus faecalis, pistils of Lactobacillus and stamens of Enterococcus faecalis perched on stalks of Escherichia coli. The flower itself emerges on stalks of Clostridium difficile. Free-chaining Streptococcus mutans  floats by under the flower.  Bacillus cereus, long rod-shaped bacteria in their arthomitus stage attach by fibers to the intestinal epithelium, grow filamentously, and sporulate from their distal ends.",
   },
@@ -973,8 +938,7 @@ const entrants = [
     title: "C-002 Cancer Assassin",
     medium_software: "Cinema4D R20, Photoshop CS6",
     presentation_format: "Print and Digital",
-    primaryAudience:
-      "Art Buyers, Creative Directors, Art Directors of Pharmaceutical and Biotechnology Companies",
+    primaryAudience: "Art Buyers, Creative Directors, Art Directors of Pharmaceutical and Biotechnology Companies",
     intended_purpose:
       "One of a series of images distributed via a self-promotional marketing program to prospective clients to promote the artist's creativity, artistry and storytelling. The illustration is a dramatization a Cytotoxic Killer T Cell inducing a cancer cell to undergo programmed cell death known as apoptosis. These Killer T Cells are part of the body's immune response system. They are programmed to seek out, attach themselves and kill cancer cells, usually using chemicals. They recognize a specific site (antigen) on the surface of cancer cells and bind to it. The Killer T Cell then eliminates the cancer cell by releasing a protein that forms pores in the cancer cell's membrane and specifically induces apoptosis.",
   },
@@ -1000,23 +964,19 @@ const entrants = [
     "Contributor #3 First Name [Associate Submission]": "Regina",
     "Contributor #3 Last Name [Associate Submission]": "Milner",
     "Contributor #3 is Member? [Associate Submission]": "Yes",
-    "Contributor #3 Email Address [Associate Submission]":
-      "regina@cognitionstudio.com",
+    "Contributor #3 Email Address [Associate Submission]": "regina@cognitionstudio.com",
     "Contributor #4 First Name [Associate Submission]": "Amanda",
     "Contributor #4 Last Name [Associate Submission]": "Grage",
     "Contributor #4 is Member? [Associate Submission]": "No",
-    "Contributor #4 Email Address [Associate Submission]":
-      "amanda@cognitionstudio.com",
+    "Contributor #4 Email Address [Associate Submission]": "amanda@cognitionstudio.com",
     "Contributor #5 First Name [Associate Submission]": "David",
     "Contributor #5 Last Name [Associate Submission]": "Ehlert",
     "Contributor #5 is Member? [Associate Submission]": "Yes",
-    "Contributor #5 Email Address [Associate Submission]":
-      "david@cognitionstudio.com",
+    "Contributor #5 Email Address [Associate Submission]": "david@cognitionstudio.com",
     "Contributor #6 First Name [Associate Submission]": "Kristine",
     "Contributor #6 Last Name [Associate Submission]": "Johnson",
     "Contributor #6 is Member? [Associate Submission]": "No",
-    "Contributor #6 Email Address [Associate Submission]":
-      "kristine@cognitionstudio.com",
+    "Contributor #6 Email Address [Associate Submission]": "kristine@cognitionstudio.com",
   },
   {
     firstName: "Jordan",
@@ -1075,8 +1035,7 @@ const entrants = [
     medium_software: "Adobe Illustrator",
     presentation_format: "Promotional print material",
     primaryAudience: "Research professional",
-    intended_purpose:
-      "Novel way to profile myosin mutation and resulting pathological condition associated with hypertrophic cardiomyopathy.",
+    intended_purpose: "Novel way to profile myosin mutation and resulting pathological condition associated with hypertrophic cardiomyopathy.",
     "Contributor #1 First Name ": "Matt",
     "Contributor #1 Last Name ": "Wimsatt",
     "Contributor #1 is Member?": "yes",
@@ -1087,8 +1046,7 @@ const entrants = [
     lastName: "Shi",
     email: "marystx@163.com",
     category: "C",
-    title:
-      "C-009 Metaphoric Overview of Venous Disease and Therapeutic Strategies",
+    title: "C-009 Metaphoric Overview of Venous Disease and Therapeutic Strategies",
     medium_software: "Autodesk Maya",
     presentation_format: "Wall Art",
     primaryAudience: "General Public",
@@ -1105,13 +1063,11 @@ const entrants = [
     "Contributor #3 First Name [Associate Submission]": "Tianxing",
     "Contributor #3 Last Name [Associate Submission]": "Shi",
     "Contributor #3 is Member? [Associate Submission]": "Yes",
-    "Contributor #3 Email Address [Associate Submission]":
-      "titan@apexscimedia.com",
+    "Contributor #3 Email Address [Associate Submission]": "titan@apexscimedia.com",
     "Contributor #4 First Name [Associate Submission]": "Shuyang",
     "Contributor #4 Last Name [Associate Submission]": "Zhou",
     "Contributor #4 is Member? [Associate Submission]": "No",
-    "Contributor #4 Email Address [Associate Submission]":
-      "zhousy@apexscimedia.com",
+    "Contributor #4 Email Address [Associate Submission]": "zhousy@apexscimedia.com",
   },
   {
     firstName: "Veronica",
@@ -1254,8 +1210,7 @@ const entrants = [
     lastName: "Holmes",
     email: "carolynrholmes@gmail.com",
     category: "D",
-    title:
-      "D-006 Motorvehicle Collision resulting in Pediatric Head and Neck Trauma",
+    title: "D-006 Motorvehicle Collision resulting in Pediatric Head and Neck Trauma",
     medium_software: "Osirix, Photoshop",
     presentation_format: "30'x40' exhibit panel and pdf for projection",
     primaryAudience: "Jury / Lay audience",
@@ -1380,8 +1335,7 @@ const entrants = [
     lastName: "Mattes",
     email: "pmattes@medivisuals.com",
     category: "D",
-    title:
-      "D-015 Chemical Neurolysis Versus Radiofrequency Ablation of the Intercostal Nerve",
+    title: "D-015 Chemical Neurolysis Versus Radiofrequency Ablation of the Intercostal Nerve",
     medium_software: "Adobe Photoshop and InDesign",
     presentation_format: "36' x 48' exhibit panel",
     primaryAudience: "Jury",
@@ -1413,8 +1367,7 @@ const entrants = [
     lastName: "Deretsky",
     email: "zina@zina-studio.com",
     category: "D",
-    title:
-      "D-017 Factors that can explain perforation in stomach of a paraesophageal hernia repair patient post suregery",
+    title: "D-017 Factors that can explain perforation in stomach of a paraesophageal hernia repair patient post suregery",
     medium_software: "Adobe Photoshop and Illustrator",
     presentation_format: "PPT slide in court",
     primaryAudience: "Jury",
@@ -1508,8 +1461,7 @@ const entrants = [
     title: "E-006 Operative Techniques in Plastic Surgery",
     medium_software: "Adobe Photoshop CC, Adobe Illustrator CC, Daz 3D Studio",
     presentation_format: "Hardcover textbook - 3468 pages",
-    primaryAudience:
-      "Medical and surgical students, surgical residents, and continuing education surgeons",
+    primaryAudience: "Medical and surgical students, surgical residents, and continuing education surgeons",
     intended_purpose:
       "Body Scientific International was the sole illustration provider for the 8 volume Operative Techniques in Plastic Surgery. Our team of illustrators where in contact with over 100 surgical residents, each overseeing a dedicated chapter and procedure. Over 1,900 illustrations and 2 years in the making, this surgical atlas'provides thoroughly illustrated guidance on operative techniques along with an understanding of best procedure, avoiding complications, and improving outcome expectations. The atlas covers nearly all operations in current use in plastic surgery.",
     "Contributor #1 First Name ": "Marcelo",
@@ -1523,8 +1475,7 @@ const entrants = [
     "Contributor #3 First Name [Associate Submission]": "Carolina",
     "Contributor #3 Last Name [Associate Submission]": "Hrejsa",
     "Contributor #3 is Member? [Associate Submission]": "Yes",
-    "Contributor #3 Email Address [Associate Submission]":
-      "carol@bodyscientific.com",
+    "Contributor #3 Email Address [Associate Submission]": "carol@bodyscientific.com",
     "Contributor #4 First Name [Associate Submission]": "Liana",
     "Contributor #4 Last Name [Associate Submission]": "Bauman",
     "Contributor #4 is Member? [Associate Submission]": "No",
@@ -1532,18 +1483,15 @@ const entrants = [
     "Contributor #5 First Name [Associate Submission]": "Dawn",
     "Contributor #5 Last Name [Associate Submission]": "Scheuerman",
     "Contributor #5 is Member? [Associate Submission]": "No",
-    "Contributor #5 Email Address [Associate Submission]":
-      "dawnscheu@gmail.com",
+    "Contributor #5 Email Address [Associate Submission]": "dawnscheu@gmail.com",
     "Contributor #6 First Name [Associate Submission]": "Christina",
     "Contributor #6 Last Name [Associate Submission]": "Wheeler",
     "Contributor #6 is Member? [Associate Submission]": "No",
-    "Contributor #6 Email Address [Associate Submission]":
-      "tinawheeler9@gmail.com",
+    "Contributor #6 Email Address [Associate Submission]": "tinawheeler9@gmail.com",
     "Contributor #7 First Name [Associate Submission]": "Christina",
     "Contributor #7 Last Name [Associate Submission]": "Lorenzo",
     "Contributor #7 is Member? [Associate Submission]": "Yes",
-    "Contributor #7 Email Address [Associate Submission]":
-      "christinalorenzo215@gmail.com",
+    "Contributor #7 Email Address [Associate Submission]": "christinalorenzo215@gmail.com",
   },
   {
     firstName: "Wes",
@@ -1551,8 +1499,7 @@ const entrants = [
     email: "mail.wes.price@gmail.com",
     category: "E",
     title: "E-007 Essential Ultrasound Anatomy",
-    medium_software:
-      "Adobe Photoshop, Illustrator, Lightroom, Pixologic ZBrush, Autodesk Maya",
+    medium_software: "Adobe Photoshop, Illustrator, Lightroom, Pixologic ZBrush, Autodesk Maya",
     presentation_format: "Textbook",
     primaryAudience: "Medical students",
     intended_purpose:
@@ -1576,13 +1523,11 @@ const entrants = [
     "Contributor #5 First Name [Associate Submission]": "Angelica",
     "Contributor #5 Last Name [Associate Submission]": "Ortiz",
     "Contributor #5 is Member? [Associate Submission]": "unsure",
-    "Contributor #5 Email Address [Associate Submission]":
-      "angela60510@gmail.com",
+    "Contributor #5 Email Address [Associate Submission]": "angela60510@gmail.com",
     "Contributor #6 First Name [Associate Submission]": "David",
     "Contributor #6 Last Name [Associate Submission]": "Nahabedian",
     "Contributor #6 is Member? [Associate Submission]": "unsure",
-    "Contributor #6 Email Address [Associate Submission]":
-      "nahabedian.david@gmail.com",
+    "Contributor #6 Email Address [Associate Submission]": "nahabedian.david@gmail.com",
     "Contributor #7 First Name [Associate Submission]": "Brandon",
     "Contributor #7 Last Name [Associate Submission]": "Holt",
     "Contributor #7 is Member? [Associate Submission]": "no",
@@ -1633,8 +1578,7 @@ const entrants = [
     lastName: "Kim",
     email: "bona.kim@emory.edu",
     category: "F1",
-    title:
-      "F1-002 Visual pathway: \r\namong AAN(American Academy of Neurology) Functional neuroanatomy online course",
+    title: "F1-002 Visual pathway: \r\namong AAN(American Academy of Neurology) Functional neuroanatomy online course",
     medium_software: "3D animation",
     presentation_format: "Online course",
     primaryAudience: "Neurology trainee and APP(Advanced Practice Provider)",
@@ -1651,8 +1595,7 @@ const entrants = [
     email: "emily.ling@jamanetwork.org",
     category: "F1",
     title: "F1-003 JAMA Clinical Challenge: A Young Woman With Chest Pain",
-    medium_software:
-      "Adobe Photoshop, Adobe Character Animator, Adobe After Effects, Adobe Audition",
+    medium_software: "Adobe Photoshop, Adobe Character Animator, Adobe After Effects, Adobe Audition",
     presentation_format: "Video",
     primaryAudience: "Clinicians, researchers, medical students",
     intended_purpose:
@@ -1663,10 +1606,8 @@ const entrants = [
     lastName: "Ling",
     email: "emily.ling@jamanetwork.org",
     category: "F1",
-    title:
-      "F1-004 How Does a Computer Algorithm Diagnose Diabetic Retinopathy?",
-    medium_software:
-      "Adobe Illustrator, Adobe Premiere Pro, Adobe After Effects, Adobe Audition",
+    title: "F1-004 How Does a Computer Algorithm Diagnose Diabetic Retinopathy?",
+    medium_software: "Adobe Illustrator, Adobe Premiere Pro, Adobe After Effects, Adobe Audition",
     presentation_format: "Video",
     primaryAudience: "Clinicians, researchers, medical students",
     intended_purpose:
@@ -1686,8 +1627,7 @@ const entrants = [
     email: "dekokmercadof@hhmi.org",
     category: "F1",
     title: "F1-005 Photosynthesis",
-    medium_software:
-      "Graphite, Adobe Photoshop, PyMol, Cinema 4D, and Adobe After Effects",
+    medium_software: "Graphite, Adobe Photoshop, PyMol, Cinema 4D, and Adobe After Effects",
     presentation_format: "Online video",
     primaryAudience:
       "Middle school, first-year high school biology, Advanced Placement biology, and undergraduate biology science educators & students",
@@ -1708,11 +1648,9 @@ const entrants = [
     email: "iccarr000@gmail.com",
     category: "F1",
     title: "F1-006 Immunotherapy to Enhance Your Immune System",
-    medium_software:
-      "2D Animation/ Cinema 4D & Adobe: After Effects, Illustrator, Premier Pro & Audition",
+    medium_software: "2D Animation/ Cinema 4D & Adobe: After Effects, Illustrator, Premier Pro & Audition",
     presentation_format: "Video",
-    primaryAudience:
-      "Educated Lay, Patients, Researchers, Clinicians & Scientists",
+    primaryAudience: "Educated Lay, Patients, Researchers, Clinicians & Scientists",
     intended_purpose:
       "Roswell Park Comprehensive Cancer Center has developed a novel immunotherapy currently open to patients through clinical trials. This animated video is used to inform patients and help them make educated decisions about participating in relevant clinical trials. The presence of cancer-fighting T-cells in tumor microenvironments is critical for the effectiveness of immune therapies and patient outcomes, while regulatory T-cells promote cancer progression. An enzyme, Cyclooxygenase type 2 (COX-2) is blocked to enhance cancer-fighting T-cells and inhibit cancer progression or regulatory T-cells attracted to the tumor.",
     "Contributor #1 First Name ": "Iman",
@@ -1726,21 +1664,17 @@ const entrants = [
     "Contributor #3 First Name [Associate Submission]": "Hannah",
     "Contributor #3 Last Name [Associate Submission]": "Ely",
     "Contributor #3 is Member? [Associate Submission]": "yes",
-    "Contributor #3 Email Address [Associate Submission]":
-      "hannah.ely@roswellpark.org",
+    "Contributor #3 Email Address [Associate Submission]": "hannah.ely@roswellpark.org",
   },
   {
     firstName: "Iman",
     lastName: "Carr",
     email: "iccarr000@gmail.com",
     category: "F1",
-    title:
-      "F1-007 Predicting Local Recurrence of Bladder Cancer after Radical Cystectomy",
-    medium_software:
-      "Adobe: After Effects, Illustrator, Premier Pro & Audition",
+    title: "F1-007 Predicting Local Recurrence of Bladder Cancer after Radical Cystectomy",
+    medium_software: "Adobe: After Effects, Illustrator, Premier Pro & Audition",
     presentation_format: "Video",
-    primaryAudience:
-      "Educated Lay, Urologists, Researchers, Clinicians & Scientists",
+    primaryAudience: "Educated Lay, Urologists, Researchers, Clinicians & Scientists",
     intended_purpose:
       "Local recurrence following robot-assisted radical cystectomy (RARC) remains a significant cause of bladder cancer mortality. This short video illustrates how pelvic washings and targeted sequencing are used to detect and quantify residual cancer cells within the pelvic cavity following RARC. The video is part of a series, 'Byte Size Research,' produced by ATLAS Studios within the Department of Urology at Roswell Park Comprehensive Cancer Center. This novel research made the cover and is also a featured article in the Journal of Urology's June 2019 issue.",
     "Contributor #1 First Name ": "Iman",
@@ -1756,8 +1690,7 @@ const entrants = [
     title: "F1-008 Insulin Signaling Pathway",
     medium_software: "Adobe Illustrator, Adobe After Effects, Adobe Premiere",
     presentation_format: "Video in a course on our online learning platform",
-    primaryAudience:
-      "Pre-health care and health care individuals learning medical topics online",
+    primaryAudience: "Pre-health care and health care individuals learning medical topics online",
     intended_purpose:
       "This animation depicts an insulin signaling pathway and provides a specific example of a drug'receptor interaction and the subsequent physiological and therapeutic effects. This animation is integrated into 2 courses: depicting the process by which the glucose transporter (GLUT4) is recruited to the cell membrane is important in HMX Biochemistry; explaining insulin's role in glucose uptake by depicting key steps in that signaling cascade is important for the HMX Pharmacology course.\r\nThough insulin initiates a myriad of signaling cascades, we chose to focus on the pathways relating to glucose uptake. Substrates and proteins were displayed schematically, and extraneous pathways were simplified to maintain clarity and focus. The principles of multimedia learning were implemented, and visuals and sound were tailored to direct focus and enhance didactic storytelling. We have given context to the teaching with brief references to the role of insulin and its relevant impact on human health.",
     "Contributor #1 First Name ": "Joanne",
@@ -1771,23 +1704,19 @@ const entrants = [
     "Contributor #3 First Name [Associate Submission]": "Kate",
     "Contributor #3 Last Name [Associate Submission]": "McDonnell-Dowling PhD",
     "Contributor #3 is Member? [Associate Submission]": "no",
-    "Contributor #3 Email Address [Associate Submission]":
-      "Kate_McDonnell-Dowling@hms.harvard.edu",
+    "Contributor #3 Email Address [Associate Submission]": "Kate_McDonnell-Dowling@hms.harvard.edu",
     "Contributor #4 First Name [Associate Submission]": "Jess",
     "Contributor #4 Last Name [Associate Submission]": "Ahearn",
     "Contributor #4 is Member? [Associate Submission]": "no",
-    "Contributor #4 Email Address [Associate Submission]":
-      "jess_ahearn@hms.harvard.edu",
+    "Contributor #4 Email Address [Associate Submission]": "jess_ahearn@hms.harvard.edu",
     "Contributor #5 First Name [Associate Submission]": "Matthew",
     "Contributor #5 Last Name [Associate Submission]": "Gelineau, M.Ed",
     "Contributor #5 is Member? [Associate Submission]": "no",
-    "Contributor #5 Email Address [Associate Submission]":
-      "Matthew_Gelineau@hms.harvard.edu",
+    "Contributor #5 Email Address [Associate Submission]": "Matthew_Gelineau@hms.harvard.edu",
     "Contributor #6 First Name [Associate Submission]": "Michael J.",
     "Contributor #6 Last Name [Associate Submission]": "Parker, MD",
     "Contributor #6 is Member? [Associate Submission]": "no",
-    "Contributor #6 Email Address [Associate Submission]":
-      "michael_parker@hms.harvard.edu",
+    "Contributor #6 Email Address [Associate Submission]": "michael_parker@hms.harvard.edu",
   },
   {
     firstName: "Joanne",
@@ -1795,8 +1724,7 @@ const entrants = [
     email: "joanne_muller@hms.harvard.edu",
     category: "F1",
     title: "F1-009 What is Cancer?",
-    medium_software:
-      "Adobe Illustrator, Adobe After Effects, Adobe Audition, Adobe Premier",
+    medium_software: "Adobe Illustrator, Adobe After Effects, Adobe Audition, Adobe Premier",
     presentation_format: "Video in a course on an online learning platform",
     primaryAudience: "Industry professionals learning medical topics online",
     intended_purpose:
@@ -1812,35 +1740,29 @@ const entrants = [
     "Contributor #3 First Name [Associate Submission]": "Christine",
     "Contributor #3 Last Name [Associate Submission]": "DeGennaro, PhD",
     "Contributor #3 is Member? [Associate Submission]": "no",
-    "Contributor #3 Email Address [Associate Submission]":
-      "Christine_DeGennaro@hms.harvard.edu",
+    "Contributor #3 Email Address [Associate Submission]": "Christine_DeGennaro@hms.harvard.edu",
     "Contributor #4 First Name [Associate Submission]": "Jess",
     "Contributor #4 Last Name [Associate Submission]": "Ahearn",
     "Contributor #4 is Member? [Associate Submission]": "no",
-    "Contributor #4 Email Address [Associate Submission]":
-      "jess_ahearn@hms.harvard.edu",
+    "Contributor #4 Email Address [Associate Submission]": "jess_ahearn@hms.harvard.edu",
     "Contributor #5 First Name [Associate Submission]": "Samantha",
     "Contributor #5 Last Name [Associate Submission]": "Welker, MA, CMI",
     "Contributor #5 is Member? [Associate Submission]": "yes",
-    "Contributor #5 Email Address [Associate Submission]":
-      "swelkerillustration@gmail.com",
+    "Contributor #5 Email Address [Associate Submission]": "swelkerillustration@gmail.com",
     "Contributor #6 First Name [Associate Submission]": "Michael J.",
     "Contributor #6 Last Name [Associate Submission]": "Parker, MD",
     "Contributor #6 is Member? [Associate Submission]": "no",
-    "Contributor #6 Email Address [Associate Submission]":
-      "michael_parker@hms.harvard.edu",
+    "Contributor #6 Email Address [Associate Submission]": "michael_parker@hms.harvard.edu",
   },
   {
     firstName: "Lydia",
     lastName: "Gregg",
     email: "lgregg6@jhmi.edu",
     category: "F1",
-    title:
-      "F1-010 Lyme Disease: Infection, Immune System Evasion & Progression",
+    title: "F1-010 Lyme Disease: Infection, Immune System Evasion & Progression",
     medium_software: "Cinema 4D, Adobe After Effects, Zbrush, Adobe Photoshop",
     presentation_format: "Video for presentations and website display",
-    primaryAudience:
-      "Educated lay audience with introductory biology knowledge",
+    primaryAudience: "Educated lay audience with introductory biology knowledge",
     intended_purpose:
       "This animation is intended to communicate the development and progression of a Lyme disease infection. Three sample scenes from the 8-minute animation are included. Sample (1) depicts transmission of Lyme disease bacteria from the tick to the tick's feeding cavity and describes the spiral structure of the bacteria. Sample (2) compares successful immune responses to instances of immune system evasion by Lyme disease bacteria. First, the successful formation of complement protein pores during a typical skin wound infection is depicted. This normal process is compared to unsuccessful pore formation in Lyme disease. Second, successful antibody targeting during a typical infection is compared to antibody failure in Lyme disease. Sample (3) depicts the progression of Lyme Disease from the appearance of the rash to migration of the bacteria into capillaries. All aspects of the animation are presented at relative scale and based on measurements and molecular data from the primary literature.",
   },
@@ -1849,8 +1771,7 @@ const entrants = [
     lastName: "Walsh",
     email: "mtwalshmd@gmail.com",
     category: "F1",
-    title:
-      "F1-011 'Disney-fication': Enhancing Patient Engagement through use of Advanced Video Platforms in Neurosurgery at Northwestern Medicine",
+    title: "F1-011 'Disney-fication': Enhancing Patient Engagement through use of Advanced Video Platforms in Neurosurgery at Northwestern Medicine",
     medium_software: "Video/Blender",
     presentation_format: "Video",
     primaryAudience: "Neurosurgical Patients",
@@ -1891,13 +1812,11 @@ const entrants = [
     "Contributor #5 First Name [Associate Submission]": "Jean",
     "Contributor #5 Last Name [Associate Submission]": "Lin",
     "Contributor #5 is Member? [Associate Submission]": "N",
-    "Contributor #5 Email Address [Associate Submission]":
-      "Jyichun.Lin@gmail.com",
+    "Contributor #5 Email Address [Associate Submission]": "Jyichun.Lin@gmail.com",
     "Contributor #6 First Name [Associate Submission]": "Ian",
     "Contributor #6 Last Name [Associate Submission]": "McGilvray",
     "Contributor #6 is Member? [Associate Submission]": "N",
-    "Contributor #6 Email Address [Associate Submission]":
-      "Ian.McGilvray@uhn.ca",
+    "Contributor #6 Email Address [Associate Submission]": "Ian.McGilvray@uhn.ca",
     "Contributor #7 First Name [Associate Submission]": "Joy",
     "Contributor #7 Last Name [Associate Submission]": "Qu",
     "Contributor #7 is Member? [Associate Submission]": "N",
@@ -1905,21 +1824,18 @@ const entrants = [
     "Contributor #8 First Name [Associate Submission]": "Gordon",
     "Contributor #8 Last Name [Associate Submission]": "Tait",
     "Contributor #8 is Member? [Associate Submission]": "N",
-    "Contributor #8 Email Address [Associate Submission]":
-      "Gordon.Tait@uhnresearch.ca",
+    "Contributor #8 Email Address [Associate Submission]": "Gordon.Tait@uhnresearch.ca",
     "Contributor #9 First Name [Associate Submission]": "Koji",
     "Contributor #9 Last Name [Associate Submission]": "Tomiyama",
     "Contributor #9 is Member? [Associate Submission]": "N",
-    "Contributor #9 Email Address [Associate Submission]":
-      "Kojitomy25@gmail.com",
+    "Contributor #9 Email Address [Associate Submission]": "Kojitomy25@gmail.com",
   },
   {
     firstName: "Paul",
     lastName: "Kelly",
     email: "paul.k3lly@gmail.com",
     category: "F1",
-    title:
-      "F1-013 Whipple procedure with multivisceral resections and vascular reconstruction",
+    title: "F1-013 Whipple procedure with multivisceral resections and vascular reconstruction",
     medium_software: "MAXON Cinema4D, Adobe After Effects, Adobe Premiere Pro",
     presentation_format: "H.264 encoded movie available through online website",
     primaryAudience: "Hepato-pancreato-biliary surgeons/surgical fellows",
@@ -1944,13 +1860,11 @@ const entrants = [
     "Contributor #5 First Name [Associate Submission]": "Jean",
     "Contributor #5 Last Name [Associate Submission]": "Lin",
     "Contributor #5 is Member? [Associate Submission]": "N",
-    "Contributor #5 Email Address [Associate Submission]":
-      "Jyichun.Lin@gmail.com",
+    "Contributor #5 Email Address [Associate Submission]": "Jyichun.Lin@gmail.com",
     "Contributor #6 First Name [Associate Submission]": "Ian",
     "Contributor #6 Last Name [Associate Submission]": "McGilvray",
     "Contributor #6 is Member? [Associate Submission]": "N",
-    "Contributor #6 Email Address [Associate Submission]":
-      "Ian.McGilvray@uhn.ca",
+    "Contributor #6 Email Address [Associate Submission]": "Ian.McGilvray@uhn.ca",
     "Contributor #7 First Name [Associate Submission]": "Joy",
     "Contributor #7 Last Name [Associate Submission]": "Qu",
     "Contributor #7 is Member? [Associate Submission]": "N",
@@ -1958,13 +1872,11 @@ const entrants = [
     "Contributor #8 First Name [Associate Submission]": "Gonzalo",
     "Contributor #8 Last Name [Associate Submission]": "Sapisochin",
     "Contributor #8 is Member? [Associate Submission]": "N",
-    "Contributor #8 Email Address [Associate Submission]":
-      "Gonzalo.sapisochin@uhn.ca",
+    "Contributor #8 Email Address [Associate Submission]": "Gonzalo.sapisochin@uhn.ca",
     "Contributor #9 First Name [Associate Submission]": "Gordon",
     "Contributor #9 Last Name [Associate Submission]": "Tait",
     "Contributor #9 is Member? [Associate Submission]": "N",
-    "Contributor #9 Email Address [Associate Submission]":
-      "Gordon.Tait@uhnresearch.ca",
+    "Contributor #9 Email Address [Associate Submission]": "Gordon.Tait@uhnresearch.ca",
   },
   {
     firstName: "Tziporah",
@@ -2002,8 +1914,7 @@ const entrants = [
     "Contributor #4 First Name [Associate Submission]": "Josh",
     "Contributor #4 Last Name [Associate Submission]": "Klein",
     "Contributor #4 is Member? [Associate Submission]": "Yes",
-    "Contributor #4 Email Address [Associate Submission]":
-      "jklein@highimpact.com",
+    "Contributor #4 Email Address [Associate Submission]": "jklein@highimpact.com",
     "Contributor #5 First Name [Associate Submission]": "David",
     "Contributor #5 Last Name [Associate Submission]": "Gomez",
     "Contributor #5 is Member? [Associate Submission]": "No",
@@ -2033,13 +1944,11 @@ const entrants = [
     "Contributor #3 First Name [Associate Submission]": "Man-San",
     "Contributor #3 Last Name [Associate Submission]": "Ma",
     "Contributor #3 is Member? [Associate Submission]": "No",
-    "Contributor #3 Email Address [Associate Submission]":
-      "mansan.ma@axs3d.com",
+    "Contributor #3 Email Address [Associate Submission]": "mansan.ma@axs3d.com",
     "Contributor #4 First Name [Associate Submission]": "Eddy",
     "Contributor #4 Last Name [Associate Submission]": "Xuan",
     "Contributor #4 is Member? [Associate Submission]": "Yes",
-    "Contributor #4 Email Address [Associate Submission]":
-      "eddy.xuan@axs3d.com",
+    "Contributor #4 Email Address [Associate Submission]": "eddy.xuan@axs3d.com",
   },
   {
     firstName: "Julio",
@@ -2063,8 +1972,7 @@ const entrants = [
     "Contributor #3 First Name [Associate Submission]": "Julio",
     "Contributor #3 Last Name [Associate Submission]": "Batista",
     "Contributor #3 is Member? [Associate Submission]": "Yes",
-    "Contributor #3 Email Address [Associate Submission]":
-      "julio.batista@synaptikdigital.com",
+    "Contributor #3 Email Address [Associate Submission]": "julio.batista@synaptikdigital.com",
   },
   {
     firstName: "Kevin",
@@ -2072,8 +1980,7 @@ const entrants = [
     email: "kevin@invivo.com",
     category: "F2",
     title: "F2-004 Wet AMD: Mechanism of Disease Animation",
-    medium_software:
-      "Autodesk Maya, Autodesk 3ds Max, Adobe AfterEffects, Adobe Premiere Pro",
+    medium_software: "Autodesk Maya, Autodesk 3ds Max, Adobe AfterEffects, Adobe Premiere Pro",
     presentation_format: "High definition animation",
     primaryAudience: "Ophthalmologists",
     intended_purpose:
@@ -2093,13 +2000,11 @@ const entrants = [
     "Contributor #4 First Name [Associate Submission]": "Jenn",
     "Contributor #4 Last Name [Associate Submission]": "Platt",
     "Contributor #4 is Member? [Associate Submission]": "No",
-    "Contributor #4 Email Address [Associate Submission]":
-      "jenn.platt@invivo.com",
+    "Contributor #4 Email Address [Associate Submission]": "jenn.platt@invivo.com",
     "Contributor #5 First Name [Associate Submission]": "Chris",
     "Contributor #5 Last Name [Associate Submission]": "Stretten",
     "Contributor #5 is Member? [Associate Submission]": "No",
-    "Contributor #5 Email Address [Associate Submission]":
-      "chris.stretten@invivo.com",
+    "Contributor #5 Email Address [Associate Submission]": "chris.stretten@invivo.com",
   },
   {
     firstName: "Kevin",
@@ -2107,8 +2012,7 @@ const entrants = [
     email: "kevin@invivo.com",
     category: "F2",
     title: "F2-005 Immunotherapy Patient Animation",
-    medium_software:
-      "Autodesk Maya, Autodesk 3ds Max, Adobe AfterEffects, Adobe Premiere Pro",
+    medium_software: "Autodesk Maya, Autodesk 3ds Max, Adobe AfterEffects, Adobe Premiere Pro",
     presentation_format: "High definition animation",
     primaryAudience: "Patients",
     intended_purpose:
@@ -2124,8 +2028,7 @@ const entrants = [
     "Contributor #3 First Name [Associate Submission]": "Naveen",
     "Contributor #3 Last Name [Associate Submission]": "Devasagayam",
     "Contributor #3 is Member? [Associate Submission]": "Yes",
-    "Contributor #3 Email Address [Associate Submission]":
-      "naveen.devasagayam@invivo.com",
+    "Contributor #3 Email Address [Associate Submission]": "naveen.devasagayam@invivo.com",
     "Contributor #4 First Name [Associate Submission]": "Jason",
     "Contributor #4 Last Name [Associate Submission]": "Raine",
     "Contributor #4 is Member? [Associate Submission]": "Yes",
@@ -2137,8 +2040,7 @@ const entrants = [
     email: "kevin@invivo.com",
     category: "F2",
     title: "F2-006 Causes and Consequences of ADPKD",
-    medium_software:
-      "Autodesk Maya, Autodesk 3ds Max, Adobe AfterEffects, Adobe Premiere Pro",
+    medium_software: "Autodesk Maya, Autodesk 3ds Max, Adobe AfterEffects, Adobe Premiere Pro",
     presentation_format: "High definition animation",
     primaryAudience: "Nephrologists",
     intended_purpose:
@@ -2154,8 +2056,7 @@ const entrants = [
     "Contributor #3 First Name [Associate Submission]": "Naveen",
     "Contributor #3 Last Name [Associate Submission]": "Devasagayam",
     "Contributor #3 is Member? [Associate Submission]": "Yes",
-    "Contributor #3 Email Address [Associate Submission]":
-      "naveen.devasagayam@invivo.com",
+    "Contributor #3 Email Address [Associate Submission]": "naveen.devasagayam@invivo.com",
     "Contributor #4 First Name [Associate Submission]": "Jason",
     "Contributor #4 Last Name [Associate Submission]": "Raine",
     "Contributor #4 is Member? [Associate Submission]": "Yes",
@@ -2163,18 +2064,15 @@ const entrants = [
     "Contributor #5 First Name [Associate Submission]": "Chris",
     "Contributor #5 Last Name [Associate Submission]": "Stretten",
     "Contributor #5 is Member? [Associate Submission]": "No",
-    "Contributor #5 Email Address [Associate Submission]":
-      "chris.stretten@invivo.com",
+    "Contributor #5 Email Address [Associate Submission]": "chris.stretten@invivo.com",
     "Contributor #6 First Name [Associate Submission]": "Jerry",
     "Contributor #6 Last Name [Associate Submission]": "Won",
     "Contributor #6 is Member? [Associate Submission]": "Yes",
-    "Contributor #6 Email Address [Associate Submission]":
-      "jerry.won@invivo.com",
+    "Contributor #6 Email Address [Associate Submission]": "jerry.won@invivo.com",
     "Contributor #7 First Name [Associate Submission]": "Lisa",
     "Contributor #7 Last Name [Associate Submission]": "Qiu",
     "Contributor #7 is Member? [Associate Submission]": "Yes",
-    "Contributor #7 Email Address [Associate Submission]":
-      "lisa.qiu@invivo.com",
+    "Contributor #7 Email Address [Associate Submission]": "lisa.qiu@invivo.com",
   },
   {
     firstName: "Kevin",
@@ -2182,8 +2080,7 @@ const entrants = [
     email: "kevin@invivo.com",
     category: "F2",
     title: "F2-007 Aimovig: Mechanism of Action",
-    medium_software:
-      "Autodesk Maya, Autodesk 3ds Max, Adobe AfterEffects, Adobe Premiere Pro",
+    medium_software: "Autodesk Maya, Autodesk 3ds Max, Adobe AfterEffects, Adobe Premiere Pro",
     presentation_format: "High definition animation",
     primaryAudience: "Healthcare professionals",
     intended_purpose:
@@ -2203,8 +2100,7 @@ const entrants = [
     "Contributor #4 First Name [Associate Submission]": "Jenn",
     "Contributor #4 Last Name [Associate Submission]": "Platt",
     "Contributor #4 is Member? [Associate Submission]": "No",
-    "Contributor #4 Email Address [Associate Submission]":
-      "jenn.platt@invivo.com",
+    "Contributor #4 Email Address [Associate Submission]": "jenn.platt@invivo.com",
     "Contributor #5 First Name [Associate Submission]": "Brittany",
     "Contributor #5 Last Name [Associate Submission]": "Carson",
     "Contributor #5 is Member? [Associate Submission]": "No",
@@ -2260,8 +2156,7 @@ const entrants = [
     email: "kevin@invivo.com",
     category: "F3",
     title: "F3-001 The Science of Giving",
-    medium_software:
-      "Autodesk Maya, Autodesk 3ds Max, Adobe AfterEffects, Adobe Premiere Pro",
+    medium_software: "Autodesk Maya, Autodesk 3ds Max, Adobe AfterEffects, Adobe Premiere Pro",
     presentation_format: "High definition animation",
     primaryAudience: "General public and clients",
     intended_purpose:
@@ -2277,13 +2172,11 @@ const entrants = [
     "Contributor #3 First Name [Associate Submission]": "Naveen",
     "Contributor #3 Last Name [Associate Submission]": "Devasagayam",
     "Contributor #3 is Member? [Associate Submission]": "Yes",
-    "Contributor #3 Email Address [Associate Submission]":
-      "naveen.devasagayam@invivo.com",
+    "Contributor #3 Email Address [Associate Submission]": "naveen.devasagayam@invivo.com",
     "Contributor #4 First Name [Associate Submission]": "Chris",
     "Contributor #4 Last Name [Associate Submission]": "Stretten",
     "Contributor #4 is Member? [Associate Submission]": "No",
-    "Contributor #4 Email Address [Associate Submission]":
-      "chris.stretten@invivo.com",
+    "Contributor #4 Email Address [Associate Submission]": "chris.stretten@invivo.com",
   },
   {
     firstName: "Kevin",
@@ -2291,8 +2184,7 @@ const entrants = [
     email: "kevin@invivo.com",
     category: "F3",
     title: "F3-002 Multiple Sclerosis and Immune Reconstitution",
-    medium_software:
-      "Autodesk Maya, Autodesk 3ds Max, Adobe AfterEffects, Adobe Premiere Pro",
+    medium_software: "Autodesk Maya, Autodesk 3ds Max, Adobe AfterEffects, Adobe Premiere Pro",
     presentation_format: "High definition animation",
     primaryAudience: "Healthcare professionals",
     intended_purpose:
@@ -2308,8 +2200,7 @@ const entrants = [
     "Contributor #3 First Name [Associate Submission]": "Naveen",
     "Contributor #3 Last Name [Associate Submission]": "Devasagayam",
     "Contributor #3 is Member? [Associate Submission]": "Yes",
-    "Contributor #3 Email Address [Associate Submission]":
-      "naveen.devasagayam@invivo.com",
+    "Contributor #3 Email Address [Associate Submission]": "naveen.devasagayam@invivo.com",
     "Contributor #4 First Name [Associate Submission]": "Julie",
     "Contributor #4 Last Name [Associate Submission]": "Saunders",
     "Contributor #4 is Member? [Associate Submission]": "No",
@@ -2360,8 +2251,7 @@ const entrants = [
     email: "bobshepherd@medivisuals.com",
     category: "F4",
     title: "F4-002 Free-Fluid & Free-Air in Abdominal Cavity",
-    medium_software:
-      "3D Precision Diagnostics, After Effects, Premiere, Photoshop",
+    medium_software: "3D Precision Diagnostics, After Effects, Premiere, Photoshop",
     presentation_format: "Video",
     primaryAudience: "Jury",
     intended_purpose:
@@ -2380,8 +2270,7 @@ const entrants = [
     lastName: "Shepherd",
     email: "bobshepherd@medivisuals.com",
     category: "F4",
-    title:
-      "F4-003 Increased Intracranial Pressure and Papilledema resulting from IUD",
+    title: "F4-003 Increased Intracranial Pressure and Papilledema resulting from IUD",
     medium_software: "Maya, After Effects, Premiere, Photoshop",
     presentation_format: "Video",
     primaryAudience: "Judge",
@@ -2398,16 +2287,14 @@ const entrants = [
     "Contributor #3 First Name [Associate Submission]": "Hardy",
     "Contributor #3 Last Name [Associate Submission]": "Fowler",
     "Contributor #3 is Member? [Associate Submission]": "Yes",
-    "Contributor #3 Email Address [Associate Submission]":
-      "hfowler@medivisuals.com",
+    "Contributor #3 Email Address [Associate Submission]": "hfowler@medivisuals.com",
   },
   {
     firstName: "Bob",
     lastName: "Shepherd",
     email: "bobshepherd@medivisuals.com",
     category: "F4",
-    title:
-      "F4-004 Cervical Spine Injures, Gardner Wells Tongs Placement, Cervical Decompression and Fusion",
+    title: "F4-004 Cervical Spine Injures, Gardner Wells Tongs Placement, Cervical Decompression and Fusion",
     medium_software: "3ds Max, After Effects, Premiere, Photoshop",
     presentation_format: "Video",
     primaryAudience: "Jury",
@@ -2446,8 +2333,7 @@ const entrants = [
     "Contributor #4 First Name [Associate Submission]": "Josh",
     "Contributor #4 Last Name [Associate Submission]": "Klein",
     "Contributor #4 is Member? [Associate Submission]": "Yes",
-    "Contributor #4 Email Address [Associate Submission]":
-      "jklein@highimpact.com",
+    "Contributor #4 Email Address [Associate Submission]": "jklein@highimpact.com",
   },
   {
     firstName: "Mindy",
@@ -2471,8 +2357,7 @@ const entrants = [
     "Contributor #3 First Name [Associate Submission]": "Mindy",
     "Contributor #3 Last Name [Associate Submission]": "Cho",
     "Contributor #3 is Member? [Associate Submission]": "yes",
-    "Contributor #3 Email Address [Associate Submission]":
-      "mindyycho@gmail.com",
+    "Contributor #3 Email Address [Associate Submission]": "mindyycho@gmail.com",
     "Contributor #4 First Name [Associate Submission]": "Tyler",
     "Contributor #4 Last Name [Associate Submission]": "Sadler",
     "Contributor #4 is Member? [Associate Submission]": "no",
@@ -2484,8 +2369,7 @@ const entrants = [
     email: "bobshepherd@medivisuals.com",
     category: "G1",
     title: "G1-001 Traumatic Brain Injury Digital Interactive Interface",
-    medium_software:
-      "Adobe Animate, 3D Precision Diagnostics, Photoshop, 3ds max, Maya, Daz 3D, After Effects, Premiere, Horos",
+    medium_software: "Adobe Animate, 3D Precision Diagnostics, Photoshop, 3ds max, Maya, Daz 3D, After Effects, Premiere, Horos",
     presentation_format: "Executable",
     primaryAudience: "Jury",
     intended_purpose:
@@ -2501,13 +2385,11 @@ const entrants = [
     "Contributor #3 First Name [Associate Submission]": "Tara",
     "Contributor #3 Last Name [Associate Submission]": "Rose",
     "Contributor #3 is Member? [Associate Submission]": "No",
-    "Contributor #3 Email Address [Associate Submission]":
-      "trose@medivisuals.com",
+    "Contributor #3 Email Address [Associate Submission]": "trose@medivisuals.com",
     "Contributor #4 First Name [Associate Submission]": "Hardy",
     "Contributor #4 Last Name [Associate Submission]": "Fowler",
     "Contributor #4 is Member? [Associate Submission]": "Yes",
-    "Contributor #4 Email Address [Associate Submission]":
-      "hfowler@medivisuals.com",
+    "Contributor #4 Email Address [Associate Submission]": "hfowler@medivisuals.com",
   },
   {
     firstName: "Jared",
@@ -2531,13 +2413,11 @@ const entrants = [
     "Contributor #3 First Name [Associate Submission]": "Amanda",
     "Contributor #3 Last Name [Associate Submission]": "Grage",
     "Contributor #3 is Member? [Associate Submission]": "No",
-    "Contributor #3 Email Address [Associate Submission]":
-      "amanda@cognitionstudio.com",
+    "Contributor #3 Email Address [Associate Submission]": "amanda@cognitionstudio.com",
     "Contributor #4 First Name [Associate Submission]": "David",
     "Contributor #4 Last Name [Associate Submission]": "Ehlert",
     "Contributor #4 is Member? [Associate Submission]": "Yes",
-    "Contributor #4 Email Address [Associate Submission]":
-      "david@cognitionstudio.com",
+    "Contributor #4 Email Address [Associate Submission]": "david@cognitionstudio.com",
   },
   {
     firstName: "Joe",
@@ -2575,13 +2455,11 @@ const entrants = [
     "Contributor #3 First Name [Associate Submission]": "Kenzie",
     "Contributor #3 Last Name [Associate Submission]": "Green",
     "Contributor #3 is Member? [Associate Submission]": "Yes",
-    "Contributor #3 Email Address [Associate Submission]":
-      "kgreen@highimpact.com",
+    "Contributor #3 Email Address [Associate Submission]": "kgreen@highimpact.com",
     "Contributor #4 First Name [Associate Submission]": "Jung",
     "Contributor #4 Last Name [Associate Submission]": "Park",
     "Contributor #4 is Member? [Associate Submission]": "Yes",
-    "Contributor #4 Email Address [Associate Submission]":
-      "jpark@highimpact.com",
+    "Contributor #4 Email Address [Associate Submission]": "jpark@highimpact.com",
     "Contributor #5 First Name [Associate Submission]": "Lawrence",
     "Contributor #5 Last Name [Associate Submission]": "Pasion",
     "Contributor #5 is Member? [Associate Submission]": "No",
@@ -2597,8 +2475,7 @@ const entrants = [
     title: "G2-001 Myovant Sciences Website",
     medium_software: "C4D, Illustrator, After Effects",
     presentation_format: "Website",
-    primaryAudience:
-      "Investors, Prospective Employees/Partners, HCPs, Patients/Caregivers/Advocacy Groups",
+    primaryAudience: "Investors, Prospective Employees/Partners, HCPs, Patients/Caregivers/Advocacy Groups",
     intended_purpose:
       "Myovant was seeking a website to highlight the unmet need in women's health and prostate cancer, and how their innovative research aims to fill it. Their purpose was to educate audiences on the endocrine system and its associated diseases'from uterine fibroids to prostate cancer. The challenge was not just to explain their mechanisms, but also to change perceptions around disease burdens and show how Myovant's research aims to lessen them.\r\nCognition met the challenge by creating a didactic, yet human experience through day-in-the-life photography, statistical overlays, illustrations, and animations. For the latter, care was taken to visualize diseases diagrammatically to present them clearly but sensitively and pair them with 3D assets that provided context and focal points, while merging elements of the Myovant brand.\r\nThis resulted in an educational website that is accessible to a variety of audiences and positions Myovant as a dedicated source for education, advocacy, and research.",
     "Contributor #1 First Name ": "Inessa",
@@ -2612,28 +2489,23 @@ const entrants = [
     "Contributor #3 First Name [Associate Submission]": "Jared",
     "Contributor #3 Last Name [Associate Submission]": "Travnicek",
     "Contributor #3 is Member? [Associate Submission]": "Yes",
-    "Contributor #3 Email Address [Associate Submission]":
-      "jared@cognitionstudio.com",
+    "Contributor #3 Email Address [Associate Submission]": "jared@cognitionstudio.com",
     "Contributor #4 First Name [Associate Submission]": "Nick",
     "Contributor #4 Last Name [Associate Submission]": "Snyder",
     "Contributor #4 is Member? [Associate Submission]": "No",
-    "Contributor #4 Email Address [Associate Submission]":
-      "nick@cognitionstudio.com",
+    "Contributor #4 Email Address [Associate Submission]": "nick@cognitionstudio.com",
     "Contributor #5 First Name [Associate Submission]": "Tom",
     "Contributor #5 Last Name [Associate Submission]": "Callahan",
     "Contributor #5 is Member? [Associate Submission]": "No",
-    "Contributor #5 Email Address [Associate Submission]":
-      "tom@cognitionstudio.com",
+    "Contributor #5 Email Address [Associate Submission]": "tom@cognitionstudio.com",
     "Contributor #6 First Name [Associate Submission]": "Regina",
     "Contributor #6 Last Name [Associate Submission]": "Milner",
     "Contributor #6 is Member? [Associate Submission]": "Yes",
-    "Contributor #6 Email Address [Associate Submission]":
-      "regina@cognitionstudio.com",
+    "Contributor #6 Email Address [Associate Submission]": "regina@cognitionstudio.com",
     "Contributor #7 First Name [Associate Submission]": "Kristine",
     "Contributor #7 Last Name [Associate Submission]": "Johnson",
     "Contributor #7 is Member? [Associate Submission]": "No",
-    "Contributor #7 Email Address [Associate Submission]":
-      "kristine@cognitionstudio.com",
+    "Contributor #7 Email Address [Associate Submission]": "kristine@cognitionstudio.com",
   },
   {
     firstName: "Jason",
@@ -2641,8 +2513,7 @@ const entrants = [
     email: "jason.sharpe@axs3d.com",
     category: "G2",
     title: "G2-002 Mixed reality cardiorenal experience",
-    medium_software:
-      "Unity, Autodesk Maya, Adobe Illustrator, Adobe Photoshop, Reallusion iClone",
+    medium_software: "Unity, Autodesk Maya, Adobe Illustrator, Adobe Photoshop, Reallusion iClone",
     presentation_format: "MIxed reality head-mounted display",
     primaryAudience: "Nephrologists",
     intended_purpose:
@@ -2658,53 +2529,43 @@ const entrants = [
     "Contributor #3 First Name [Associate Submission]": "Sam",
     "Contributor #3 Last Name [Associate Submission]": "Holmes",
     "Contributor #3 is Member? [Associate Submission]": "No",
-    "Contributor #3 Email Address [Associate Submission]":
-      "holmes.sam.j@gmail.com",
+    "Contributor #3 Email Address [Associate Submission]": "holmes.sam.j@gmail.com",
     "Contributor #4 First Name [Associate Submission]": "Joyce",
     "Contributor #4 Last Name [Associate Submission]": "Hui",
     "Contributor #4 is Member? [Associate Submission]": "No",
-    "Contributor #4 Email Address [Associate Submission]":
-      "joyce.hui@axs3d.com",
+    "Contributor #4 Email Address [Associate Submission]": "joyce.hui@axs3d.com",
     "Contributor #5 First Name [Associate Submission]": "Stuart",
     "Contributor #5 Last Name [Associate Submission]": "Jantzen",
     "Contributor #5 is Member? [Associate Submission]": "No",
-    "Contributor #5 Email Address [Associate Submission]":
-      "sgjantzen@gmail.com",
+    "Contributor #5 Email Address [Associate Submission]": "sgjantzen@gmail.com",
     "Contributor #6 First Name [Associate Submission]": "Julian",
     "Contributor #6 Last Name [Associate Submission]": "Kirk-Elleker",
     "Contributor #6 is Member? [Associate Submission]": "No",
-    "Contributor #6 Email Address [Associate Submission]":
-      "julian.kirk.elleker@axs3d.com",
+    "Contributor #6 Email Address [Associate Submission]": "julian.kirk.elleker@axs3d.com",
     "Contributor #7 First Name [Associate Submission]": "Man-San",
     "Contributor #7 Last Name [Associate Submission]": "Ma",
     "Contributor #7 is Member? [Associate Submission]": "No",
-    "Contributor #7 Email Address [Associate Submission]":
-      "mansan.ma@axs3d.com",
+    "Contributor #7 Email Address [Associate Submission]": "mansan.ma@axs3d.com",
     "Contributor #8 First Name [Associate Submission]": "Matthew",
     "Contributor #8 Last Name [Associate Submission]": "Ostil",
     "Contributor #8 is Member? [Associate Submission]": "No",
-    "Contributor #8 Email Address [Associate Submission]":
-      "matthew.ostil@axs3d.com",
+    "Contributor #8 Email Address [Associate Submission]": "matthew.ostil@axs3d.com",
     "Contributor #9 First Name [Associate Submission]": "Brendan",
     "Contributor #9 Last Name [Associate Submission]": "Polley",
     "Contributor #9 is Member? [Associate Submission]": "no",
-    "Contributor #9 Email Address [Associate Submission]":
-      "brendan.polley@gmail.com",
+    "Contributor #9 Email Address [Associate Submission]": "brendan.polley@gmail.com",
     "Contributor #10 First Name [Associate Submission]": "Jason",
     "Contributor #10 Last Name [Associate Submission]": "Sharpe",
     "Contributor #10 is Member? [Associate Submission]": "Yes",
-    "Contributor #10 Email Address [Associate Submission]":
-      "jason.sharpe@axs3d.com",
+    "Contributor #10 Email Address [Associate Submission]": "jason.sharpe@axs3d.com",
     "Contributor #11 First Name [Associate Submission]": "Eddy",
     "Contributor #11 Last Name [Associate Submission]": "Xuan",
     "Contributor #11 is Member? [Associate Submission]": "Yes",
-    "Contributor #11 Email Address [Associate Submission]":
-      "eddy.xuan@axs3d.com",
+    "Contributor #11 Email Address [Associate Submission]": "eddy.xuan@axs3d.com",
     "Contributor #12 First Name [Associate Submission]": "Raheel",
     "Contributor #12 Last Name [Associate Submission]": "Zubair",
     "Contributor #12 is Member? [Associate Submission]": "no",
-    "Contributor #12 Email Address [Associate Submission]":
-      "zubair.raheel@gmail.com",
+    "Contributor #12 Email Address [Associate Submission]": "zubair.raheel@gmail.com",
   },
   {
     firstName: "Michael",
@@ -2712,8 +2573,7 @@ const entrants = [
     email: "mike@xvivo.net",
     category: "G2",
     title: "G2-003 Dental Biofilm, Dysbiosis & Disease",
-    medium_software:
-      "Autodesk Softimage and Maya, Adobe After Effects and Premiere, Substance, ZBrush, Houdini",
+    medium_software: "Autodesk Softimage and Maya, Adobe After Effects and Premiere, Substance, ZBrush, Houdini",
     presentation_format: "Professional trade show viewed on Oculus Go headsets",
     primaryAudience: "Dental Professionals",
     intended_purpose:
@@ -2729,8 +2589,7 @@ const entrants = [
     "Contributor #3 First Name [Associate Submission]": "Catherine",
     "Contributor #3 Last Name [Associate Submission]": "Delphia",
     "Contributor #3 is Member? [Associate Submission]": "Yes",
-    "Contributor #3 Email Address [Associate Submission]":
-      "cdelphia@medicalillustrationstudios.com",
+    "Contributor #3 Email Address [Associate Submission]": "cdelphia@medicalillustrationstudios.com",
     "Contributor #4 First Name [Associate Submission]": "Danae",
     "Contributor #4 Last Name [Associate Submission]": "DelBalso",
     "Contributor #4 is Member? [Associate Submission]": "No",
@@ -2750,18 +2609,15 @@ const entrants = [
     "Contributor #8 First Name [Associate Submission]": "Michael",
     "Contributor #8 Last Name [Associate Submission]": "Cohen",
     "Contributor #8 is Member? [Associate Submission]": "No",
-    "Contributor #8 Email Address [Associate Submission]":
-      "mcohen21@its.jnj.com",
+    "Contributor #8 Email Address [Associate Submission]": "mcohen21@its.jnj.com",
     "Contributor #9 First Name [Associate Submission]": "Michael",
     "Contributor #9 Last Name [Associate Submission]": "Lynch",
     "Contributor #9 is Member? [Associate Submission]": "No",
-    "Contributor #9 Email Address [Associate Submission]":
-      "mlynch23@its.jnj.com",
+    "Contributor #9 Email Address [Associate Submission]": "mlynch23@its.jnj.com",
     "Contributor #10 First Name [Associate Submission]": "Michael",
     "Contributor #10 Last Name [Associate Submission]": "McCarthy",
     "Contributor #10 is Member? [Associate Submission]": "No",
-    "Contributor #10 Email Address [Associate Submission]":
-      "michael@cbrdads.com",
+    "Contributor #10 Email Address [Associate Submission]": "michael@cbrdads.com",
   },
   {
     firstName: "Jeff",
@@ -2813,8 +2669,7 @@ const entrants = [
     "Contributor #6 First Name [Associate Submission]": "Jacqueline",
     "Contributor #6 Last Name [Associate Submission]": "Mason",
     "Contributor #6 is Member? [Associate Submission]": "Yes",
-    "Contributor #6 Email Address [Associate Submission]":
-      "jacqueline@ossovr.com",
+    "Contributor #6 Email Address [Associate Submission]": "jacqueline@ossovr.com",
   },
   {
     firstName: "Sam",
@@ -2838,8 +2693,7 @@ const entrants = [
     email: "info@alissaeckert.com",
     category: "H",
     title: "H-001 3d Printed Gastroschisis Infant",
-    medium_software:
-      "Autodesk 3ds Max, Form2 printer photopolymer resin, Airbrushed acrylics",
+    medium_software: "Autodesk 3ds Max, Form2 printer photopolymer resin, Airbrushed acrylics",
     presentation_format: "3D printed and airbrushed model",
     primaryAudience: "clinicians and congressional policymakers",
     intended_purpose:
@@ -2867,8 +2721,7 @@ const entrants = [
     email: "marcelo@bodyscientific.com",
     category: "H",
     title: "H-003 Autosomal Dominant Polycystic Kidney Disease Model",
-    medium_software:
-      "Adobe Photoshop CC, Adobe Illustrator CC, 3D printed prototype, Steel molds, Plastic, Hand-painted",
+    medium_software: "Adobe Photoshop CC, Adobe Illustrator CC, 3D printed prototype, Steel molds, Plastic, Hand-painted",
     presentation_format: "Desktop model with pull-out tabs",
     primaryAudience: "Urologists and medical practitioners in general medicine",
     intended_purpose:
@@ -2884,12 +2737,10 @@ const entrants = [
     "Contributor #3 First Name [Associate Submission]": "Lik",
     "Contributor #3 Last Name [Associate Submission]": "Kwong",
     "Contributor #3 is Member? [Associate Submission]": "No",
-    "Contributor #3 Email Address [Associate Submission]":
-      "lik@bodyscientific.com",
+    "Contributor #3 Email Address [Associate Submission]": "lik@bodyscientific.com",
     "Contributor #4 Last Name [Associate Submission]": "CDMNY",
     "Contributor #4 is Member? [Associate Submission]": "No",
-    "Contributor #4 Email Address [Associate Submission]":
-      "mfalcicchio@cdmny.com",
+    "Contributor #4 Email Address [Associate Submission]": "mfalcicchio@cdmny.com",
   },
   {
     firstName: "Alexander",
@@ -2923,8 +2774,7 @@ const entrants = [
     title: "I1-003 Hypoplastic Left Heart Syndrome",
     medium_software: "Adobe Photoshop and Adobe InDesign",
     presentation_format: "Double gatefold brochure",
-    primaryAudience:
-      "Parents of children diagnosed with Hypoplastic Left Heart Syndrome",
+    primaryAudience: "Parents of children diagnosed with Hypoplastic Left Heart Syndrome",
     intended_purpose:
       "This piece is used as an aid in a one-on-one setting with a medical professional to educate parents of children diagnosed with Hypoplastic Left Heart Syndrome on the differences between a healthy heart and a hypoplastic heart. It is used as part of the informed consent protocol.",
   },
@@ -2946,8 +2796,7 @@ const entrants = [
     email: "bmonro3@uic.edu",
     category: "I1",
     title: "I1-005 Three Hearts of the Giant Pacific Octopus",
-    medium_software:
-      "Autodesk 3dsMax 2019, Autodesk Mudbox 2019, Adobe Photoshop, and Adobe Illustrator.",
+    medium_software: "Autodesk 3dsMax 2019, Autodesk Mudbox 2019, Adobe Photoshop, and Adobe Illustrator.",
     presentation_format: "Printed poster 24'x20'",
     primaryAudience: "General public, most likely a museum setting.",
     intended_purpose:
@@ -3179,8 +3028,7 @@ const entrants = [
     email: "nethen2@uic.edu",
     category: "I1",
     title: "I1-024 Branches of the External Carotid Artery",
-    medium_software:
-      "Materialise Mimics 19.0, Pixologic ZBrush 2018, Luxion Keyshot 8.2, Adobe Photoshop CC, Adobe InDesign CC",
+    medium_software: "Materialise Mimics 19.0, Pixologic ZBrush 2018, Luxion Keyshot 8.2, Adobe Photoshop CC, Adobe InDesign CC",
     presentation_format: "Didactic print poster",
     primaryAudience: "Anatomy students",
     intended_purpose:
@@ -3240,8 +3088,7 @@ const entrants = [
     email: "upatel36@uic.edu",
     category: "I1",
     title: "I1-029 Pathogenesis of Multiple Sclerosis",
-    medium_software:
-      "Autodesk 3DS Max, Autodesk Mudbox, Adobe Photoshop, Adobe Illustrator",
+    medium_software: "Autodesk 3DS Max, Autodesk Mudbox, Adobe Photoshop, Adobe Illustrator",
     presentation_format: "Printed Poster",
     primaryAudience: "Educated lay audience",
     intended_purpose:
@@ -3252,8 +3099,7 @@ const entrants = [
     lastName: "Mahon",
     email: "mahon.vondel@gmail.com",
     category: "I1",
-    title:
-      "I1-030 Major and Common Branches of the Anterior Cerebral Artery (ACA)",
+    title: "I1-030 Major and Common Branches of the Anterior Cerebral Artery (ACA)",
     medium_software: "Graphite, Adobe Photoshop, Adobe Illustrator",
     presentation_format: "Figure in Neurosurgical textbook",
     primaryAudience: "Medical Students",
@@ -3293,8 +3139,7 @@ const entrants = [
     email: "torres.liu@mail.utoronto.ca",
     category: "I1",
     title: "I1-033 Chronic Hepatitis B Infection",
-    medium_software:
-      "Adobe Photoshop, Adobe Illustrator CC, Cinema 4D, Procreate",
+    medium_software: "Adobe Photoshop, Adobe Illustrator CC, Cinema 4D, Procreate",
     presentation_format: "Science Magazine",
     primaryAudience: "Educated lay audience",
     intended_purpose:
@@ -3305,8 +3150,7 @@ const entrants = [
     lastName: "Kevorkian",
     email: "zkevorkian@icloud.com",
     category: "I1",
-    title:
-      "I1-034 The Pediatric Inguinal Canal/Descent of the Testes and Cryptorchidism",
+    title: "I1-034 The Pediatric Inguinal Canal/Descent of the Testes and Cryptorchidism",
     medium_software: "Illustrator",
     presentation_format: "Print (Anatomy Textbook)",
     primaryAudience: "Medical Students and Residents",
@@ -3374,8 +3218,7 @@ const entrants = [
     lastName: "Shan",
     email: "siting.shan@mail.utoronto.ca",
     category: "I2",
-    title:
-      "I2-005 Anterior Cruciate Ligament Reconstruction: Preparation for Graft Placement",
+    title: "I2-005 Anterior Cruciate Ligament Reconstruction: Preparation for Graft Placement",
     medium_software: "Procreate, Illustrator",
     presentation_format: "Print, 1 page in a surgical textbook",
     primaryAudience: "Orthopaedic interns",
@@ -3387,8 +3230,7 @@ const entrants = [
     lastName: "Choi",
     email: "heyinsil@gmail.com",
     category: "I2",
-    title:
-      "I2-006 IOL Akreos AO60 Scleral Fixation Technique Using a Suture Retriever",
+    title: "I2-006 IOL Akreos AO60 Scleral Fixation Technique Using a Suture Retriever",
     medium_software: "Cinema 4D, Pixologic ZBrush, Adobe Photoshop",
     presentation_format: "Two-page spread",
     primaryAudience: "Ophthalmological surgeons and residents",
@@ -3431,8 +3273,7 @@ const entrants = [
     lastName: "Sanders",
     email: "ksande22@jhmi.edu",
     category: "I2",
-    title:
-      "I2-009 Pre-surgical Therapy, Nasoalveolar Molding for Cleft Palate - Parent Education Model",
+    title: "I2-009 Pre-surgical Therapy, Nasoalveolar Molding for Cleft Palate - Parent Education Model",
     medium_software: "C4D, ZBrush, Adobe Illustrator",
     presentation_format: "3D Printed Models and Display",
     primaryAudience: "Parent / Lay Public",
@@ -3470,8 +3311,7 @@ const entrants = [
     category: "I2",
     title: "I2-012 Calcaneal Osteotomy with Iliac Graft",
     medium_software: "Adobe Illustrator",
-    presentation_format:
-      "Print (single plate for pediatric orthopedic surgery journal)",
+    presentation_format: "Print (single plate for pediatric orthopedic surgery journal)",
     primaryAudience: "Orthopedic Surgeons",
     intended_purpose:
       "A pediatric calcaneal osteotomy using an iliac graft is performed on patients with pediatric pes planus (flatfoot), a condition where the longitudinal arch of the foot is lowered or flattened. The purpose of the illustration is to teach pediatric orthopedic surgeons how a calcaneal osteotomy with an iliac graft is performed. It describes the key surgical events and instruments associated with this type of surgery. Bold line illustration allows the surgeon to easily identify key anatomical landmarks while excluding any superfluous information.",
@@ -3550,8 +3390,7 @@ const entrants = [
     email: "amy.m.cao@gmail.com",
     category: "I3",
     title: "I3-002 Let There Be Light: Using Fireflies in Cancer Research",
-    medium_software:
-      "Photoshop, Illustrator, Cinema 4D, Arnold, ZBrush, Chimera",
+    medium_software: "Photoshop, Illustrator, Cinema 4D, Arnold, ZBrush, Chimera",
     presentation_format: "Print, magazine spread, 11'x17'",
     primaryAudience: "Educated lay audience",
     intended_purpose:
@@ -3576,8 +3415,7 @@ const entrants = [
     category: "I3",
     title: "I3-004 The Cancer Paradox",
     medium_software: "Cinema4D, Chimera, Photoshop, Illustrator, Maya",
-    presentation_format:
-      "Print, 2-page spread for a popular science magazine (e.g. Scientific American)",
+    presentation_format: "Print, 2-page spread for a popular science magazine (e.g. Scientific American)",
     primaryAudience: "Educated lay audience",
     intended_purpose:
       "Cancer is responsible for just under a third of all deaths worldwide. Tumor suppressor p53 is a protein that plays an important role in preventing cells from becoming cancerous. Amino acid mutations in p53 is observed in over 50% of human cancers. Understanding how these critical mutations affect p53 function may be a key in unlocking future cancer therapeutics. I created this two-page spread for a popular science magazine, such as Scientific American, to educate a lay audience on the structure-function relationship between p53 and its role in preventing cancer. This illustration depicts the p53 molecular architecture, mechanism of action, and effect of amino acid sidechain shape and charge on its ability to bind and repair DNA.  A combination of color-coding, negative space, transparent overlays, and callouts were used to enhance the illustration's communication clarity.",
@@ -3633,8 +3471,7 @@ const entrants = [
     email: "mansur.caroline@gmail.com",
     category: "I3",
     title: "I3-008 Form & Function of the Japanese Pagoda",
-    medium_software:
-      "Autodesk 3D Studio Max, Adobe Photoshop CC, Adobe Illustrator CC",
+    medium_software: "Autodesk 3D Studio Max, Adobe Photoshop CC, Adobe Illustrator CC",
     presentation_format: "Printed Poster",
     primaryAudience: "Lay",
     intended_purpose:
@@ -3693,12 +3530,10 @@ const entrants = [
     lastName: "Tidey",
     email: "gatidey.illustration@gmail.com",
     category: "I3",
-    title:
-      "I3-013 Control of Commensal Specific IFNy+ CD4 T Cells by a Keratinocyte-Microbiota-IL-22 Circuit",
+    title: "I3-013 Control of Commensal Specific IFNy+ CD4 T Cells by a Keratinocyte-Microbiota-IL-22 Circuit",
     medium_software: "Photoshop / Illustrator / InDesign",
     presentation_format: "Scientific Paper Figure",
-    primaryAudience:
-      "Research Scientists and Biomedical Communication Professionals",
+    primaryAudience: "Research Scientists and Biomedical Communication Professionals",
     intended_purpose:
       "This aim of this project is to depict a microscopic sequence of events based on the ongoing studies of an NIH researcher. The science addressed in their work analyzes interactions between commensals and the immune system at the skin epithelium barrier site. By nature, these studies are highly complex and currently have no other supporting images. This visualization provides enhanced comprehension and clarity in order to better conceptualize these intricate interactions and the mechanisms controlling them.",
   },
@@ -3743,10 +3578,8 @@ const entrants = [
     lastName: "Espeseth",
     email: "jespes2@uic.edu",
     category: "I3",
-    title:
-      "I3-017 White Nose Syndrome in the Little Brown Bat (Myotis lucifugus)",
-    medium_software:
-      "Adobe Photoshop 2018, Autodesk 3dsMax 2019, Autodesk Mudbox 2019",
+    title: "I3-017 White Nose Syndrome in the Little Brown Bat (Myotis lucifugus)",
+    medium_software: "Adobe Photoshop 2018, Autodesk 3dsMax 2019, Autodesk Mudbox 2019",
     presentation_format: "Printed Poster 20' x 24'",
     primaryAudience: "General Public",
     intended_purpose:
@@ -3760,8 +3593,7 @@ const entrants = [
     email: "joshua.bierdz@gmail.com",
     category: "I3",
     title: "I3-018 Golden Poison Dart Frog - Phyllobates terribilis",
-    medium_software:
-      "Pixologic Zbrush, Keyshot, Adobe Photoshop, Adobe InDesign",
+    medium_software: "Pixologic Zbrush, Keyshot, Adobe Photoshop, Adobe InDesign",
     presentation_format: "24x20 In Poster",
     primaryAudience: "General Audience",
     intended_purpose:
@@ -3773,8 +3605,7 @@ const entrants = [
     email: "kellytnn@gmail.com",
     category: "I3",
     title: "I3-019 Color Change of the Panther Chameleon Furcifur Pardalis",
-    medium_software:
-      "Autodesk Mudbox, Autodesk 3ds Max, Adobe Photoshop, Adobe Illustrator",
+    medium_software: "Autodesk Mudbox, Autodesk 3ds Max, Adobe Photoshop, Adobe Illustrator",
     presentation_format: "Poster",
     primaryAudience: "Educated lay audience",
     intended_purpose:
@@ -3786,8 +3617,7 @@ const entrants = [
     email: "lweihevisuals@gmail.com",
     category: "I3",
     title: "I3-020 GLP-1R and Biased Agonism",
-    medium_software:
-      "Visual Molecular Dynamics, Pixologic ZBrush, Adobe Photoshop, Keyshot",
+    medium_software: "Visual Molecular Dynamics, Pixologic ZBrush, Adobe Photoshop, Keyshot",
     presentation_format: "Informational Poster",
     primaryAudience: "Medical Professional",
     intended_purpose:
@@ -3799,10 +3629,8 @@ const entrants = [
     email: "maurita.hung@mail.utoronto.ca",
     category: "I3",
     title: "I3-021 The Role of Calmodulin in Calcium Signaling",
-    medium_software:
-      "Chimera, Maxon Cinema4D, Adobe Illustrator, Adobe Photoshop",
-    presentation_format:
-      "Print, 2-page spread for a popular science magazine (e.g., Scientific American)",
+    medium_software: "Chimera, Maxon Cinema4D, Adobe Illustrator, Adobe Photoshop",
+    presentation_format: "Print, 2-page spread for a popular science magazine (e.g., Scientific American)",
     primaryAudience: "Educated lay audience",
     intended_purpose:
       "Calcium ions are an essential cell signaling molecule in the human body. Intracellular levels of calcium can be detected by calcium-sensing proteins such as calmodulin, which then activate various target proteins leading to downstream biological effects. I created this two-page spread for a popular science magazine in order to illustrate the relationship between the structure and function of calmodulin in calcium signaling. In order to achieve this goal, I used: (i) 3D molecular models to depict the conformational changes of calmodulin upon binding to calcium ions; and (ii) schematic diagrams to communicate the versatility of calmodulin in binding to different target proteins and activating a wide range of functions in the human body. In addition, I employed color-coding, labels, and visual metaphors to further enhance the information being conveyed.",
@@ -3824,8 +3652,7 @@ const entrants = [
     lastName: "Li",
     email: "mona_yue@hotmail.com",
     category: "I3",
-    title:
-      "I3-023 What a long trip! The science behind the notorious potency of LSD",
+    title: "I3-023 What a long trip! The science behind the notorious potency of LSD",
     medium_software: "Adobe Illustrator, Adobe Photoshop, UCSF Chimera",
     presentation_format: "Two-page spread in a popular science magazine",
     primaryAudience: "Educated lay audience",
@@ -3854,8 +3681,7 @@ const entrants = [
     email: "pveach2@uic.edu",
     category: "I3",
     title: "I3-025 Sinister Lights in the Night",
-    medium_software:
-      "Autodesk 3DS Max, Autodesk Mudbox, Adobe Photoshop, Adobe After Effects, Adobe Illustrator",
+    medium_software: "Autodesk 3DS Max, Autodesk Mudbox, Adobe Photoshop, Adobe After Effects, Adobe Illustrator",
     presentation_format: "Print poster",
     primaryAudience: "Educated lay audience",
     intended_purpose:
@@ -3871,8 +3697,7 @@ const entrants = [
     email: "pveach2@uic.edu",
     category: "I3",
     title: "I3-026 Novel GPR40 Lipid-Facing Binding Pocket",
-    medium_software:
-      "Autodesk 3DS Max, Visual Molecular Dynamics, Pixologic ZBrush, Adobe After Effects, Adobe Illustrator",
+    medium_software: "Autodesk 3DS Max, Visual Molecular Dynamics, Pixologic ZBrush, Adobe After Effects, Adobe Illustrator",
     presentation_format: "Print poster",
     primaryAudience: "Pharmacology researchers, students",
     intended_purpose:
@@ -3900,8 +3725,7 @@ const entrants = [
     email: "rachelmpoli@gmail.com",
     category: "I3",
     title: "I3-028 Flight as a Mechanism of Defense in Exocoetidae",
-    medium_software:
-      "3DS Max 2019, Mudbox 2019, Photoshop 2018, Procreate 2018",
+    medium_software: "3DS Max 2019, Mudbox 2019, Photoshop 2018, Procreate 2018",
     presentation_format: "20' x 24' printed poster",
     primaryAudience: "General public",
     intended_purpose:
@@ -3929,8 +3753,7 @@ const entrants = [
     email: "SDavis62@uic.edu",
     category: "I3",
     title: "I3-030 Why Do Spicy Things Feel Hot?",
-    medium_software:
-      "Assets created in Autodesk Mudbox, Autodesk 3DS Max, and Adobe Illustrator. Final composite in Adobe Photoshop.",
+    medium_software: "Assets created in Autodesk Mudbox, Autodesk 3DS Max, and Adobe Illustrator. Final composite in Adobe Photoshop.",
     presentation_format: "Wall-mounted poster",
     primaryAudience:
       "This piece is geared toward educated or somewhat educated lay-audiences, such as high school or college-educated individuals curious about the world around them.",
@@ -3957,8 +3780,7 @@ const entrants = [
     title: "I3-032 Bioluminescence of the Fan Fin Anglerfish",
     medium_software: "Adobe Photoshop 2018, VMD 2019, 3dsMax 2019, Mudbox 2019",
     presentation_format: "Printed Poster 20' x 24'",
-    primaryAudience:
-      "General public, as the poster would likely be viewed in a museum setting.",
+    primaryAudience: "General public, as the poster would likely be viewed in a museum setting.",
     intended_purpose:
       "Like many deep-sea creatures, very little is known about specific species of deep sea anglerfish. This poster synthesizes information not readily available to public, such as exploring the molecular mechanisms of bioluminescence, the symbiotic relationship bioluminescent bacteria share with the anglerfish, and offers rational for how its morphological structures contribute to predation and defense. Additionally, this poster notes the gaps in research knowledge, and acknowledges that the deep ocean is still largely a mystery with much left to explore. Through dynamic composition and dramatic lighting, the poster illustrates the strange beauty of the inhabitants of the spooky ocean depths. \r\n\r\nThis poster aimed to combine a semester's worth of modeling techniques including, integrating box modeling, transferring between Autodesk 3ds Max and Mudbox, utilizing displacement maps to minimize polygon count, and compositing in Adobe Photoshop.",
   },
@@ -3968,8 +3790,7 @@ const entrants = [
     email: "viczakrz@gmail.com",
     category: "I3",
     title: "I3-033 Unique Behaviors of the Coconut Octopus",
-    medium_software:
-      "Autodesk 3ds Max, Autodesk Mudbox, Adobe Photoshop, Adobe Illustrator, Adobe InDesign",
+    medium_software: "Autodesk 3ds Max, Autodesk Mudbox, Adobe Photoshop, Adobe Illustrator, Adobe InDesign",
     presentation_format: "Printed Poster",
     primaryAudience: "Lay Audience",
     intended_purpose:
@@ -3980,8 +3801,7 @@ const entrants = [
     lastName: "Xiang",
     email: "tracy.xiang@mail.utoronto.ca",
     category: "I3",
-    title:
-      "I3-034 Living circuits: transcriptional logic gates using CRISPR systems",
+    title: "I3-034 Living circuits: transcriptional logic gates using CRISPR systems",
     medium_software: "Cinema4D, Adobe Illustrator",
     presentation_format: "11x17'' Print",
     primaryAudience: "General Scientific Audience",
@@ -4028,10 +3848,8 @@ const entrants = [
     lastName: "Young",
     email: "youngalexander@gmail.com",
     category: "J",
-    title:
-      "J-003 Lab Grown, Farm Fresh: Inside the Quest to bring lab-to-table and create slaughter-free meat",
-    medium_software:
-      "Autodesk Maya, Adobe Photoshop, Adobe After Effects, Adobe Illustrator",
+    title: "J-003 Lab Grown, Farm Fresh: Inside the Quest to bring lab-to-table and create slaughter-free meat",
+    medium_software: "Autodesk Maya, Adobe Photoshop, Adobe After Effects, Adobe Illustrator",
     presentation_format: "Print, Mock cover page for Scientific American",
     primaryAudience: "Lay audience",
     intended_purpose:
@@ -4079,8 +3897,7 @@ const entrants = [
     email: "donghwi.son@mail.utoronto.ca",
     category: "J",
     title: "J-007 Virocop",
-    medium_software:
-      "Autodesk Maya, Adobe Photoshop, Adobe After Effects, and Adobe Illustrator",
+    medium_software: "Autodesk Maya, Adobe Photoshop, Adobe After Effects, and Adobe Illustrator",
     presentation_format: "Print, Journal cover",
     primaryAudience: "Lay audience",
     intended_purpose:
@@ -4092,8 +3909,7 @@ const entrants = [
     email: "blackravenrose2@gmail.com",
     category: "J",
     title: "J-008 Scent of Life",
-    medium_software:
-      "Maxon Cinema 4D R20, Z-Brush, Adobe Illustrator CC, Adobe Photoshop CC",
+    medium_software: "Maxon Cinema 4D R20, Z-Brush, Adobe Illustrator CC, Adobe Photoshop CC",
     presentation_format: "Print",
     primaryAudience: "Scientists, Researchers",
     intended_purpose:
@@ -4142,8 +3958,7 @@ const entrants = [
     lastName: "Stano",
     email: "msstano1@gmail.com",
     category: "J",
-    title:
-      "J-012 Uncovering Evolution: Antique Microscope Slides Provide New Insights on Malaria",
+    title: "J-012 Uncovering Evolution: Antique Microscope Slides Provide New Insights on Malaria",
     medium_software: "Photoshop/Illustrator",
     presentation_format: "Print",
     primaryAudience: "Scientific Audience",
@@ -4252,8 +4067,7 @@ const entrants = [
     email: "amsschill@gmail.com",
     category: "L",
     title: "L-001 X Marks the Smell",
-    medium_software:
-      "Autodesk 3ds Max, Adobe Photoshop, Procreate, Adobe After Effects",
+    medium_software: "Autodesk 3ds Max, Adobe Photoshop, Procreate, Adobe After Effects",
     presentation_format: "1280 x 720 mp4",
     primaryAudience: "General Audience (high school +)",
     intended_purpose:
@@ -4277,11 +4091,9 @@ const entrants = [
     email: "alisa.brandt@mail.mcgill.ca",
     category: "L",
     title: "L-003 Morphology of Memory: The Anatomy of the Human Hippocampus",
-    medium_software:
-      "3D Slicer, ZBrush, Cinema 4D, Illustrator, Photoshop, After Effects",
+    medium_software: "3D Slicer, ZBrush, Cinema 4D, Illustrator, Photoshop, After Effects",
     presentation_format: "Educational video",
-    primaryAudience:
-      "Graduate students, researchers, and clinicians in neuroscience fields",
+    primaryAudience: "Graduate students, researchers, and clinicians in neuroscience fields",
     intended_purpose:
       "The hippocampus is a part of the brain known to be critical for learning and memory. It has a complex structure composed of layered, interconnected regions. This introductory animation provides an overview of the anatomy of the human hippocampus and accompanies a web-based, 3D interactive of the model shown in the animation. The animation first introduces the viewer to the location of the hippocampus and its major functions, before gradually breaking its structure down into regions and their connectivity (this part has been trimmed for the Salon). To help graduate students and scientists better understand and visualize hippocampal structure, color-coding is used in combination with diagrammatic representations to link the 3D content to imagery typically shown in the literature. Full animation length: 3 minutes 50 seconds.",
   },
@@ -4291,8 +4103,7 @@ const entrants = [
     email: "carmenburroughsm@gmail.com",
     category: "L",
     title: "L-004 The Power of Obedience",
-    medium_software:
-      "Adobe Illustrator CC, Adobe After Effects CC, Adobe Audition CC, Adobe Premiere Pro",
+    medium_software: "Adobe Illustrator CC, Adobe After Effects CC, Adobe Audition CC, Adobe Premiere Pro",
     presentation_format: "Video on the web",
     primaryAudience: "Undergraduate students in an introductory psych course",
     intended_purpose:
@@ -4332,11 +4143,9 @@ const entrants = [
     email: "dberge8@uic.edu",
     category: "L",
     title: "L-007 Transcription in Myc-Related Cancers",
-    medium_software:
-      "Visual Molecular Dynamics, Pixologic ZBrush, Autodesk 3ds Max, Adobe After Effects",
+    medium_software: "Visual Molecular Dynamics, Pixologic ZBrush, Autodesk 3ds Max, Adobe After Effects",
     presentation_format: "Animation (mp4, 1280x720px)",
-    primaryAudience:
-      "Broad, college biology students to individuals with an advanced biology degree",
+    primaryAudience: "Broad, college biology students to individuals with an advanced biology degree",
     intended_purpose:
       "This animation was created to explain a research endeavor at Northwestern University's new epigenetics center. The public has a significant lack of understanding of genetics, and this animation aimed to be a step towards correcting that. The purpose and challenge was to create an engaging, educational, and scientifically-accurate story for a broad audience. I used visual design methods to establish distinct learning goals for three audience subgroups that were distinguished by their biomedical background. Learning goals were organized into modules of verbal and visual information that directly informed the script and storyboard. An extensive literature review was conducted for ~20 molecular structures in this animation'many of which have large disordered regions. By studying common practices and reflecting on the purpose, I made informed artistic decisions about representation, such as using surface representations rather than ribbon to emphasize intermolecular interactions.",
   },
@@ -4348,8 +4157,7 @@ const entrants = [
     title: "L-008 HiVolt: A Rapid HIV Viral Load Test",
     medium_software: "Autodesk 3ds Max, Adobe After Effects",
     presentation_format: "Animation (mp4, 1280x720px)",
-    primaryAudience:
-      "Scientists and clinicians in the fields of diagnostics, bioengineering, and infectious disease",
+    primaryAudience: "Scientists and clinicians in the fields of diagnostics, bioengineering, and infectious disease",
     intended_purpose:
       "This animation was created for a semester-long class project and for a biomedical engineering research group at the University of Washington (UW) in Seattle. The assignment was to create a 45-60 second animation using animation principles and various advanced animation techniques that had been introduced during the courses, including 3D particle systems (e.g., Particle Flow), 2D particle systems (e.g., Trapcode Particular), physics simulations, material animation, and compositing. The collaborators at UW will use this animation in seminar and conference settings to engage the audience and to explain the mechanism of the group's new HIV diagnostic device. Audience members are scientists and clinicians in the fields of diagnostics, engineering, and infectious disease.",
   },
@@ -4361,8 +4169,7 @@ const entrants = [
     title: "L-009 The Type VI Secretion System",
     medium_software: "Maya / After Effects",
     presentation_format: "Lecture Presentation and Online",
-    primaryAudience:
-      "Research Scientists and Biomedical Communication Professionals",
+    primaryAudience: "Research Scientists and Biomedical Communication Professionals",
     intended_purpose:
       "The purpose of this animation is to articulate a microscopic bacterial mechanism that is currently being studied by a researcher at the NIH. The project focuses on select species of bacteria in the human gut microbiome that possess a protein complex utilized in interbacterial antagonism. The animation provides educational clarity and visual communication of a complex process that has never before been depicted with this level of detail or mechanistic comprehension.",
   },
@@ -4372,8 +4179,7 @@ const entrants = [
     email: "hliu209@uic.edu",
     category: "L",
     title: "L-010 Pufferfish toxin for pain treatment",
-    medium_software:
-      "Autodesk 3ds Max, V-Ray, Pixologic ZBrush, Adobe After Effects, Adobe Illustrator, Adobe Audition, VMD",
+    medium_software: "Autodesk 3ds Max, V-Ray, Pixologic ZBrush, Adobe After Effects, Adobe Illustrator, Adobe Audition, VMD",
     presentation_format: "Animation (mp4 file)",
     primaryAudience: "College student",
     intended_purpose:
@@ -4411,8 +4217,7 @@ const entrants = [
     title: "L-013 Novel HIV Vaccine Research and Development",
     medium_software: "Autodesk Maya, Adobe AfterEffects, Adobe Premiere Pro",
     presentation_format: "Animation video for web",
-    primaryAudience:
-      "General audience, specifically those associated with the HIV community",
+    primaryAudience: "General audience, specifically those associated with the HIV community",
     intended_purpose:
       "To this day, the HIV/AIDS epidemic continues to affect the lives of millions making it a notable epidemiological issue. Despite research efforts over the last several decades, the scientific community has yet to come up with a cure: an HIV vaccine that experts believe is the potential key to disease eradication. Fortunately, recent advancements in vaccine design that combine nanoscience and immunological principles, show great promise. However, the communication and knowledge gap with those in the community who are affected by and/or invested in HIV research has perpetuated an atmosphere of distrust and hopelessness. This animation was created to mitigate the issue by communicating the challenges, importance and current state of HIV vaccine research to this particular general audience group. The animation aims to educate the viewer on many complex concepts by utilizing a minimalist style and colour palette to direct attention to key molecular and cellular players.",
   },
@@ -4422,11 +4227,9 @@ const entrants = [
     email: "lohitha.kethu@gmail.com",
     category: "L",
     title: "L-014 What is Frailty Syndrome?",
-    medium_software:
-      "ZBrush, Cinema4D, Adobe Photoshop, Illustrator, AfterEffects CC",
+    medium_software: "ZBrush, Cinema4D, Adobe Photoshop, Illustrator, AfterEffects CC",
     presentation_format: "Animation",
-    primaryAudience:
-      "Non-geriatric specialty nurse practitioners, Nurses, Hospice workers",
+    primaryAudience: "Non-geriatric specialty nurse practitioners, Nurses, Hospice workers",
     intended_purpose:
       "As global populations age, it is important to understand frailty syndrome, which can affect older adults' health and quality of life. Frailty syndrome is a clinically recognizable state of increased vulnerability due to aging-related declines in function across multiple body systems. Knowing to assess a patient's frailty status can predict geriatric health outcomes, disability, and dependence.\r\n\r\nAs part of a thesis project, four 90 second videos were created to educate healthcare workers outside of geriatrics. This abridged animation presents a macro to micro exploration of frailty, including an introduction to frailty syndrome, clinical assessment of frailty, and cellular/ molecular determinants. These short, social-media friendly videos were created to be warm, patient-centered, and engaging, and are intended to be shared via Facebook and Twitter. 3D character animation and a graphic style were chosen to be eye-catching and engaging for healthcare workers to connect with the topic.",
   },
@@ -4459,10 +4262,8 @@ const entrants = [
     lastName: "Ethen",
     email: "nethen2@uic.edu",
     category: "L",
-    title:
-      "L-017 Chromatin Biology: Epigenetics and the Regulation of Gene Activity",
-    medium_software:
-      "Visual Molecular Dynamics, Pixologic ZBrush 2018, Autodesk 3ds Max 2018, Adobe After Effects",
+    title: "L-017 Chromatin Biology: Epigenetics and the Regulation of Gene Activity",
+    medium_software: "Visual Molecular Dynamics, Pixologic ZBrush 2018, Autodesk 3ds Max 2018, Adobe After Effects",
     presentation_format: "Animation",
     primaryAudience:
       "Persons trafficking on the Simpson Querrey Center for Epigenetics' website seeking background information about the importance of the research being performed at the center.",
@@ -4525,13 +4326,10 @@ const entrants = [
     lastName: "Choi",
     email: "heyinsil@gmail.com",
     category: "M",
-    title:
-      "M-002 Autopsy Brain Removal Training Using Virtual Reality Simulation",
-    medium_software:
-      "Unity, Artec Space Spider, Artec Studio, Cinema 4D, Pixologic ZBrush, Adobe Photoshop",
+    title: "M-002 Autopsy Brain Removal Training Using Virtual Reality Simulation",
+    medium_software: "Unity, Artec Space Spider, Artec Studio, Cinema 4D, Pixologic ZBrush, Adobe Photoshop",
     presentation_format: "Virtual Reality surgical training simulation",
-    primaryAudience:
-      "Autopsy assistants, Neuropathology and Pathology residents and fellows",
+    primaryAudience: "Autopsy assistants, Neuropathology and Pathology residents and fellows",
     intended_purpose:
       "Training in autopsy brain removal is challenging because: 1) the number of hospital autopsies have declined, 2) incorrect cutting planes and depth of cut during opening of the cranium can lead to inadequate exposure of, or damage to the brain, 3) initial hesitation to perform the procedure due to proximity to the face, and 4) current teaching tools are limited to drawings and photographs; no physical practice of the procedure is involved. To address this deficit, a virtual reality (VR) simulation was created to teach proper methodology in performing steps of the autopsy brain removal. The simulation provides an immersive VR interactive experience using realistic virtual patient models, sound effects, and haptic responses within a VR autopsy suite, exposing trainees to an autopsy suite environment. It also features real-time visual feedback and evaluation of user performance to assist in improvement of skills and knowledge during the step of opening the cranium with an oscillating saw.",
   },
@@ -4540,10 +4338,8 @@ const entrants = [
     lastName: "Johnson",
     email: "kristenj8@aol.com",
     category: "M",
-    title:
-      "M-003 Interpreting Blood Gases in Clinical Practice: Principles of Gas Exchange",
-    medium_software:
-      "iBooks Author, Photoshop, Illustrator, Maya, Cinema4D, Procreate",
+    title: "M-003 Interpreting Blood Gases in Clinical Practice: Principles of Gas Exchange",
+    medium_software: "iBooks Author, Photoshop, Illustrator, Maya, Cinema4D, Procreate",
     presentation_format: "iBooks",
     primaryAudience: "Veterinary Students",
     intended_purpose:
@@ -4578,13 +4374,10 @@ const entrants = [
     lastName: "Chen",
     email: "natividadchen@gmail.com",
     category: "M",
-    title:
-      "M-006 Kinundrum: a problem-based multimedia learning application for undergraduate kinesiology education",
-    medium_software:
-      "Adobe Photoshop CC, Adobe Illustrator CC, Adobe After Effects CC, Toon Boom Harmony, Autodesk Maya, Pixologic Zbrush",
+    title: "M-006 Kinundrum: a problem-based multimedia learning application for undergraduate kinesiology education",
+    medium_software: "Adobe Photoshop CC, Adobe Illustrator CC, Adobe After Effects CC, Toon Boom Harmony, Autodesk Maya, Pixologic Zbrush",
     presentation_format: "Web Application (designed for desktop use)",
-    primaryAudience:
-      "Undergraduate kinesiology students learning lower limb anatomy",
+    primaryAudience: "Undergraduate kinesiology students learning lower limb anatomy",
     intended_purpose:
       "For our Masters Research Project at the UofT BMC program, we created a web application to engage undergraduate kinesiology students in active learning of lower limb anatomy. Kinundrum, a combination of the words 'kinesiology' and 'conundrum', guides students through lower limb biomechanics case studies at increasing levels of difficulty. Case studies present animated injury scenarios, after which students solve interactive problems accompanied by 3D models, animations, and illustrations of the affected anatomy. Kinundrum combines problem-based learning pedagogy with multimedia design and web technology to create an interactive learning tool. Kinundrum marks the first time a collaborative MRP has been developed at BMC, which meant the project was not only more ambitious in scope, but also developed project management, task-tracking, and teamwork skills.",
     "Contributor #1 First Name ": "Chelsea",
@@ -4601,12 +4394,10 @@ const entrants = [
     lastName: "Mientka",
     email: "sarah.mientka@gmail.com",
     category: "M",
-    title:
-      "M-007 University of Tennessee College of Veterinary Medicine, Key Components to Anesthesia Setup",
+    title: "M-007 University of Tennessee College of Veterinary Medicine, Key Components to Anesthesia Setup",
     medium_software: "Unity 3D, Adobe Illustrator, Autodesk 3dsMax",
     presentation_format: "Desktop application (Mac & PC)",
-    primaryAudience:
-      "First and Second year veterinary students at University of Tennessee College of Veterinary Medicine",
+    primaryAudience: "First and Second year veterinary students at University of Tennessee College of Veterinary Medicine",
     intended_purpose:
       "Students from University of Illinois at Chicago Biomedical Visualization program (UIC-BVIS: ?S. Mientka, R. Ehredt, C. Garr, L. Price, A. Wang, D. Robinson, and U. Patel) teamed up with University of Tennessee College of Veterinary Medicine (UTCVM) to create an interactive application to teach veterinary medical students in their 1st and 2nd year introduction to small animal anesthesia machine. Knowledge of anesthesia machines are understandably crucial to veterinary medical surgery and used during other diagnostic modalities. Students are typically introduced to learning the anesthetic equipment setup via lectures and internet videos. Subsequently they are tested on their knowledge of each component and the proper set up of the anesthesia machine. This application aims to bridge the gap between first introduction and hands-on interaction with the machine to promote accuracy and long-term memory.",
     "Contributor #1 First Name ": "Ryan",
@@ -4620,8 +4411,7 @@ const entrants = [
     "Contributor #3 First Name [Associate Submission]": "Lauren",
     "Contributor #3 Last Name [Associate Submission]": "Price",
     "Contributor #3 is Member? [Associate Submission]": "yes",
-    "Contributor #3 Email Address [Associate Submission]":
-      "lauren@beanbiovis.com",
+    "Contributor #3 Email Address [Associate Submission]": "lauren@beanbiovis.com",
     "Contributor #4 First Name [Associate Submission]": "Ushma",
     "Contributor #4 Last Name [Associate Submission]": "Patel",
     "Contributor #4 is Member? [Associate Submission]": "yes",
@@ -4645,8 +4435,7 @@ const entrants = [
     email: "shariwa.oke@gmail.com",
     category: "M",
     title: "M-008 Cell Explorer",
-    medium_software:
-      "Unity 3D, Pixologic ZBrush, Autodesk 3ds Max, Adobe Illustrator",
+    medium_software: "Unity 3D, Pixologic ZBrush, Autodesk 3ds Max, Adobe Illustrator",
     presentation_format: "Virtual Reality Desktop Application",
     primaryAudience: "Middle school biology students",
     intended_purpose:
@@ -4657,10 +4446,8 @@ const entrants = [
     lastName: "Liu",
     email: "torres.liu@mail.utoronto.ca",
     category: "M",
-    title:
-      "M-009 An Interactive Website on Interpreting Adenovirus Transcription Map",
-    medium_software:
-      "Adobe Illustrator CC, Maya, Aftereffect, CSS, HTML, JavaScript",
+    title: "M-009 An Interactive Website on Interpreting Adenovirus Transcription Map",
+    medium_software: "Adobe Illustrator CC, Maya, Aftereffect, CSS, HTML, JavaScript",
     presentation_format: "Website",
     primaryAudience: "Undergraduate life science students",
     intended_purpose:

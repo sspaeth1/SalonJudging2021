@@ -151,6 +151,7 @@ router.get("/judgingForms", (req, res) => res.render("judgingForms", { JudgeGrou
 router.get("/artentries", isLoggedIn, async function (req, res) {
   try {
     let pageCategoryId = req.query.categoryId;
+    console.log(req.query.categoryId);
 
     let findScore = await GeneralScore.find({
       judge: req.user.id,
@@ -279,7 +280,7 @@ router.get("/artentries/:id", isLoggedIn, async (req, res) => {
         entryId: req.params.id,
         judge: req.user.id,
       });
-      console.log(req.user.id);
+      console.log("user: ", req.user.id);
     }
 
     findScore = await GeneralScore.findOne({
