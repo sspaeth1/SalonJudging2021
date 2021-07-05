@@ -35,8 +35,7 @@ mongoose
   })
   .then(() => {
     //Populate Art Entries from Js/JSON file. created from spreadsheet
-    ArtEntry.find({ GUID: { $exists: true } })
-      .sort({ GUID: 1 })
+    ArtEntry.find()
       .then((res) => {
         console.log();
         if (res.length == 0) {

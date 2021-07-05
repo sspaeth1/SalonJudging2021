@@ -9979,7 +9979,6 @@ body {
   color: #bd4747;
   background-color: #ffba43;
   margin-top: 20px;
-  position: absolute;
   width: 90%;
   text-align: center;
 }
@@ -10080,14 +10079,12 @@ section.loginLinks li {
   color: #ffffff;
   background-color: #00a8b4;
   margin-top: 20px;
-  position: absolute;
   width: 90%;
   text-align: center;
 }
 
 .alert-warning {
   word-break: break-word;
-  position: absolute;
   width: 90%;
   text-align: center;
 }
