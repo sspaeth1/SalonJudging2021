@@ -2,8 +2,8 @@ const group1 = [
   {
     letter: "B",
     type: "Professional still media section",
-    subtype: "Editorial",
-    specific: "",
+    subtype: "still media",
+    specific: " - Editorial",
   },
   {
     letter: "C",
@@ -11,6 +11,30 @@ const group1 = [
     subtype: "Still Media ",
     specific: "- Advertising and Marketing/Promotional",
   },
+  {
+    letter: "G1",
+    type: "Professional Motion Media",
+    subtype: "Interactive Media",
+    specific: " - Didactic/Instructional-Non-Commercial",
+  },
+  {
+    letter: "G2",
+    type: "Professional Motion Media",
+    subtype: "Interactive Media",
+    specific: " - Didactic/Instructional-Commercial",
+  },
+  {
+    letter: "G3",
+    type: "Professional Motion Media",
+    subtype: "Interactive Media",
+    specific: " - Advertising and Marketing/Promotional",
+  },
+  {
+    letter: "G4",
+    type: "Professional Motion Media",
+    subtype: "Interactive Media",
+    specific: " -Gaming",
+  }
 ];
 
 const group2 = [
@@ -25,7 +49,7 @@ const group2 = [
     type: "Professional still media section",
     subtype: "Didactic/Instructional ",
     specific: "- Commercial",
-  },
+  }
 ];
 
 const group3 = [
@@ -46,52 +70,28 @@ const group3 = [
     type: "Professional Motion Media",
     subtype: "Animation",
     specific: " Advertising and Marketing/Promotional",
-  },
-  {
-    letter: "F4",
-    type: "Professional Motion Media",
-    subtype: "Animation",
-    specific: "Medical-Legal",
-  },
-  {
-    letter: "G1",
-    type: "Professional Motion Media",
-    subtype: "Interactive Media",
-    specific: " - Didactic/Instructional-Non-Commercial",
-  },
-  {
-    letter: "G2",
-    type: "Professional Motion Media",
-    subtype: "Interactive Media",
-    specific: " - Didactic/Instructional-Commercial",
-  },
-  {
-    letter: "G4",
-    type: "Professional Motion Media",
-    subtype: "Interactive Media",
-    specific: " -Gaming",
-  },
-  {
-    letter: "M",
-    type: "Student Interactive Section",
-    subtype: "Interactive",
-    specific: "",
-  },
+  }
 ];
 
 const group4 = [
   {
-    letter: "I1",
+    letter: "I3",
     type: "Student Still Media Section",
     subtype: "Didactic/Instructional",
-    specific: "– Anatomical/ Pathological",
+    specific: "– Molecular/Biological/Life Sciences",
   },
   {
     letter: "L",
     type: "Student Motion Media ",
-    subtype: "– Animation",
-    specific: "",
+    subtype: "Motion",
+    specific: "– Animation",
   },
+  {
+    letter: "M",
+    type: "Student Interactive Section",
+    subtype: "Media",
+    specific: "Interactive",
+  }
 ];
 
 const group5 = [
@@ -102,10 +102,25 @@ const group5 = [
     specific: "- Medical Legal",
   },
   {
+    letter: "F4",
+    type: "Professional Motion Media",
+    subtype: "Animation",
+    specific: "Medical-Legal",
+  },
+  {
     letter: "I2",
     type: "Student Still Media Section",
     subtype: "Didactic/Instructional",
     specific: "– Surgical/Clinical Procedures",
+  }
+];
+
+const group6 = [
+  {
+    letter: "I1",
+    type: "Student Still Media Section",
+    subtype: "Didactic/Instructional",
+    specific: "– Anatomical/ Pathological",
   },
   {
     letter: "J",
@@ -118,16 +133,7 @@ const group5 = [
     type: "Student Still Media Section",
     subtype: "Didactic/Instructional",
     specific: "– Advertising and Marketing/Promotional",
-  },
-];
-
-const group6 = [
-  {
-    letter: "I3",
-    type: "Student Still Media Section",
-    subtype: "Didactic/Instructional",
-    specific: "– Molecular/Biological/Life Sciences",
-  },
+  }
 ];
 
 const group7 = [
@@ -142,7 +148,7 @@ const group7 = [
     type: "Professional Motion Media",
     subtype: "Interactive Media",
     specific: " - Advertising and Marketing/Promotional",
-  },
+  }
 ];
 
 const groupAdmin = [
@@ -150,7 +156,7 @@ const groupAdmin = [
     letter: "A1",
     type: "Professional still media section",
     subtype: "Didactic/Instructional ",
-    specific: "- Non-Commercial",
+    specific: " - Non-Commercial",
   },
   {
     letter: "A2",
@@ -161,8 +167,8 @@ const groupAdmin = [
   {
     letter: "B",
     type: "Professional still media section",
-    subtype: "Editorial",
-    specific: "",
+    subtype: "still media",
+    specific: " - Editorial",
   },
   {
     letter: "C",
@@ -216,7 +222,7 @@ const groupAdmin = [
     letter: "G4",
     type: "Professional Motion Media",
     subtype: "Interactive Media",
-    specific: " -Gaming",
+    specific: " - Gaming",
   },
   {
     letter: "G5",
@@ -227,8 +233,8 @@ const groupAdmin = [
   {
     letter: "M",
     type: "Student Interactive Section",
-    subtype: "Interactive",
-    specific: "",
+    subtype: "Media",
+    specific: "Interactive",
   },
   {
     letter: "I1",
@@ -239,8 +245,8 @@ const groupAdmin = [
   {
     letter: "L",
     type: "Student Motion Media ",
-    subtype: "– Animation",
-    specific: "",
+    subtype: "Motion",
+    specific: "– Animation",
   },
   {
     letter: "I2",
